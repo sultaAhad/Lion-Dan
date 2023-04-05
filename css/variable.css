@@ -1,0 +1,99 @@
+/* Variable Css Start Here */
+
+/* Font cdn starts here */
+
+@font-face {
+	font-family: "EBGaramond-SemiBold";
+	src: url("../fonts/EB_Garamond/static/EBGaramond-SemiBold.ttf");
+}
+
+@font-face {
+	font-family: "EBGaramond-SemiBoldItalic";
+	src: url("../fonts/EB_Garamond/static/EBGaramond-SemiBoldItalic.ttf");
+}
+@font-face {
+	font-family: "EBGaramond-Regular";
+	src: url("../fonts/EB_Garamond/static/EBGaramond-Regular.ttf");
+}
+@font-face {
+	font-family: "EBGaramond-Medium";
+	src: url("../fonts/EB_Garamond/static/EBGaramond-Medium.ttf");
+}
+@font-face {
+	font-family: "EBGaramond-Medium";
+	src: url("../fonts/EB_Garamond/static/EBGaramond-Medium.ttf");
+}
+@font-face {
+	src: url("../fonts/poppins/Poppins-Regular.ttf");
+	font-family: "poppins-Regular";
+}
+/* @font-face {
+	font-family: "Poppins-regular";
+	src: url("../fonts/Poppins/Poppins-Regular.ttf");
+}
+
+@font-face {
+	font-family: "Montserrat-bold";
+	src: url("../fonts/Montserrat/Montserrat-Bold.ttf");
+}
+
+@font-face {
+	font-family: "Montserrat-semibold";
+	src: url("../fonts/Montserrat/Montserrat-SemiBold.ttf");
+}
+
+@font-face {
+	font-family: "Montserrat-medium";
+	src: url("../fonts/Montserrat/Montserrat-Medium.ttf");
+}
+
+@font-face {
+	font-family: "Montserrat-reg";
+	src: url("../fonts/Montserrat/Montserrat-Regular.ttf");
+} */
+
+/* Font cdn ends here */
+:root {
+	/* Typography starts here */
+	--font-default: "poppins-regular";
+	--font-poppin-semibold: "poppins-semibold";
+	--font-poppin-medium: "poppins-medium";
+	--font-EBGaramond-SemiBold:"EBGaramond-SemiBold";
+	--font-EBGaramond-SemiBolditalic:"EBGaramond-SemiBoldItalic";
+	--font-EBGaramond-Regular:"EBGaramond-Regular";
+	--font-EBGaramond-Medium:"EBGaramond-Medium";
+	/* Typography ends here */
+
+	/* Colors starts here */
+	--body-color: #fff;
+	--main-color-1: #9149c2;
+	--extra-color-2: #1e0e60;
+	--extra-color-3: #f9f9f9;
+	--extra-color-3: #000;
+	--profile-data-color: #2a263d;
+	/* --text-color: #848696; */
+	--text-color: #303030;
+	--heading-color: #fff;
+	--heading-color-2: #040404;
+	--light-text-color: #fff;
+	--dark-text-color: #000;
+	--checkbox-color: #636060;
+	--checkbox-back: #1e0e60;
+	--profile-back: #fbfbfb;
+	--pagination-color: #6d6d6d;
+	--history-color: #959ead;
+	--history-border: #dcdcdc;
+	/* Colors ends here */
+
+	/* button colors starts here */
+	--primary-btn-color: #c4dd28;
+	--primary-btn-text-color: #0a0a0a;
+	--secondary-btn-color: #1e0e60;
+	--secondary-btn-text-color: #fff;
+	/* button colors starts here */
+	/* Auth Input Background */
+	--auth-input-light-bg: #f3f3f3;
+	--auth-input-light-border: #c3cad9;
+}
+
+/* Variable Css End Here */
