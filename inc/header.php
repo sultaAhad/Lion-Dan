@@ -6,13 +6,13 @@
         <nav class="navbar navbar-expand-lg navbar-light ">
             <div class="web-logo">
                 <a class="navbar-brand" href="index.php">
-                    <img src="img/logo-main.png" alt="" class="img-fluid">
+                    <img src="img/headerlogo.png" alt="" class="img-fluid">
                 </a>
             </div>
             <div class="header-main">
                 <ul class="navbar-nav ">
                     <li class="nav-item">
-                        <a class="nav-link active" href="services.php">services</a>
+                        <a class="nav-link " href="service.php">services</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="artwork.php">location</a>

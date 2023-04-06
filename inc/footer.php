@@ -1,16 +1,21 @@
 <!-- Footer Start Here -->
 <footer>
+    <div class="background-footer1">
+        <img src="img/background10.png" class="img-fluid" alt="">
+    </div>
+    <div class="background-footer2">
+        <img src="img/background9.png" class="img-fluid" alt="">
+    </div>
     <div class="container">
         <div class="row">
             <div class="col-lg-4 text-center mx-auto">
-                <div class="img-footer-input">
-                    <img src="img/footer-logo.png" class="img-fluid" alt="">
+                <div class="img-footer-input ">
+                    <img src="img/footer-logo.png" class="img-fluid " alt="">
                     <h3>join the den club</h3>
                     <p>and received 10% off of your first order with us</p>
                     <div class="subscribe_newletter">
                         <div class="input-group mb-3">
-                            <input type="text" class="form-control" placeholder="Enter Email"
-                                aria-label="Recipient's username" aria-describedby="button-addon2">
+                            <input type="text" class="form-control" placeholder="Enter Your Email" aria-label="Recipient's username" aria-describedby="button-addon2">
                             <button class="btn btn btn-dark" type="button" id="button-addon2">
                                 subscribe now
                             </button>
@@ -20,15 +25,15 @@
             </div>
         </div>
     </div>
+    <div class="footer-border1"></div>
     <div class="container">
-        <div class="row footer-border justify-content-between">
+        <div class="row footer-border justify-content-between align-items-center">
             <div class="col-md-4 ">
-                <div class="web-logo">
-                    <img src="img/footer-logo.png" alt="" class="img-fluid">
+                <div class="web-logo footer-logo">
+                    <img src="img/footer-logo-wrapper.png" alt="" class="img-fluid">
                 </div>
                 <div class="footer-info">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <p>At Lions Den Barber Shop, our traditional barber chairs, hot lather shaves, and head and neck massages set us apart in the barbering industry. </p>
                 </div>
                 <div class="icon-wrapper">
                     <ul class="social_icons13">
@@ -79,10 +84,18 @@
             </div>
         </div>
     </div>
-    <div class="col-md-12">
-        <div class="copy-right">
-            <p>©copyright csbfinearts.com 2023. all rights reserved.</p>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="copy-right">
+                    <p>© 2023 Lions Den, Inc. All Rights Reserved</p>
+                    <p>Design by RAUL R. MEDIA GROUP</p>
+                </div>
+            </div>
         </div>
+    </div>
+    <div class="background-footer">
+        <img src="img/background11.png" class="img-fluid" alt="">
     </div>
 </footer>
 <!-- Footer End Here -->

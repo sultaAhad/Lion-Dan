@@ -3,26 +3,15 @@
 /* Font cdn starts here */
 
 @font-face {
-	font-family: "EBGaramond-SemiBold";
-	src: url("../fonts/EB_Garamond/static/EBGaramond-SemiBold.ttf");
+	font-family: "MYRIADPRO-REGULAR";
+	src: url("../fonts/MYRIADPRO-REGULAR.OTF");
 }
 
 @font-face {
-	font-family: "EBGaramond-SemiBoldItalic";
-	src: url("../fonts/EB_Garamond/static/EBGaramond-SemiBoldItalic.ttf");
+	font-family: "OrpheusPro-Bold";
+	src: url("../fonts/OrpheusPro-Bold.ttf");
 }
-@font-face {
-	font-family: "EBGaramond-Regular";
-	src: url("../fonts/EB_Garamond/static/EBGaramond-Regular.ttf");
-}
-@font-face {
-	font-family: "EBGaramond-Medium";
-	src: url("../fonts/EB_Garamond/static/EBGaramond-Medium.ttf");
-}
-@font-face {
-	font-family: "EBGaramond-Medium";
-	src: url("../fonts/EB_Garamond/static/EBGaramond-Medium.ttf");
-}
+
 @font-face {
 	src: url("../fonts/poppins/Poppins-Regular.ttf");
 	font-family: "poppins-Regular";
@@ -58,10 +47,10 @@
 	--font-default: "poppins-regular";
 	--font-poppin-semibold: "poppins-semibold";
 	--font-poppin-medium: "poppins-medium";
-	--font-EBGaramond-SemiBold:"EBGaramond-SemiBold";
-	--font-EBGaramond-SemiBolditalic:"EBGaramond-SemiBoldItalic";
-	--font-EBGaramond-Regular:"EBGaramond-Regular";
-	--font-EBGaramond-Medium:"EBGaramond-Medium";
+	--font-EBGaramond-SemiBold: "EBGaramond-SemiBold";
+	--font-EBGaramond-SemiBolditalic: "EBGaramond-SemiBoldItalic";
+	--font-EBGaramond-Regular: "EBGaramond-Regular";
+	--font-EBGaramond-Medium: "EBGaramond-Medium";
 	/* Typography ends here */
 
 	/* Colors starts here */

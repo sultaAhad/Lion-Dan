@@ -1,0 +1,86 @@
+header.web-header {
+	background: #212121;
+}
+section.main-wrapper {
+	background: #5b5b5b;
+	min-height: 90vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+section.main-wrapper * {
+	color: #fff;
+	padding: 0;
+}
+.img-our-service .img-lines :before {
+	content: "";
+	height: 2px;
+	width: 12%;
+	position: absolute;
+	background: #dec7a6;
+	bottom: 0;
+	top: 36px;
+	right: 90px;
+}
+.img-our-service .img-lines :after {
+	content: "";
+	height: 2px;
+	width: 12%;
+	position: absolute;
+	background: #dec7a6;
+	bottom: 0;
+	top: 36px;
+	left: 90px;
+}
+.img-our-service img {
+	position: relative;
+}
+.img-our-service h4 {
+	font-size: 85px;
+}
+.img-our-service p {
+	padding: 0px 120px;
+	margin: 0;
+}
+.img-lines {
+	position: relative;
+}
+/*  */
+.mans-wrapper {
+	height: inherit;
+}
+.mans-wrapper p {
+	height: 130px;
+}
+.mans-wrapper h5 {
+	text-transform: uppercase;
+	font-family: "OrpheusPro-Bold";
+	height: 50px;
+}
+.mans-wrapper.golden-border h5 {
+	height: unset;
+}
+.add-wrapper a {
+	text-decoration: none;
+	background: #000;
+	color: #fff;
+	padding: 10px;
+	font-size: 24px;
+}
+.add-wrapper {
+	margin-top: 110px;
+}
+.add-wrapper h4 {
+	font-size: 22px;
+	margin-top: 40px;
+	font-family: "OrpheusPro-Bold";
+}
+.add-wrapper h4 span {
+	color: #dec7a6;
+}
+.add-wrapper p {
+	padding-right: 360px;
+}
+.brn-main {
+	margin-top: 80px;
+}
