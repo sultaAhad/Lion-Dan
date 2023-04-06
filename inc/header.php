@@ -6,7 +6,7 @@
         <nav class="navbar navbar-expand-lg navbar-light ">
             <div class="web-logo">
                 <a class="navbar-brand" href="index.php">
-                    <img src="img/headerlogo.png" alt="" class="img-fluid">
+                    <img src="img/main-header-logo.png" alt="" class="img-fluid">
                 </a>
             </div>
             <div class="header-main">
