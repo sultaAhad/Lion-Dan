@@ -176,6 +176,7 @@ nav ul li a.active {
 	border-bottom: none;
 	text-decoration: none;
 	vertical-align: middle;
+	font-family: "OrpheusPro-Bold";
 }
 .search-icon {
 	margin: 0 20px;
