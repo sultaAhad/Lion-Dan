@@ -1,0 +1,114 @@
+header.web-header {
+	background: #212121;
+}
+section.main-wrapper {
+	background: #121212;
+	min-height: 80vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	/* padding-top: 200px; */
+	margin-top: 113px;
+	position: relative;
+	z-index: 1;
+}
+section.main-wrapper * {
+	color: #fff;
+	padding: 0;
+}
+.img-our-service .img-lines :before {
+	content: "";
+	height: 2px;
+	width: 12%;
+	position: absolute;
+	background: #dec7a6;
+	bottom: 0;
+	top: 36px;
+	right: 90px;
+}
+.img-our-service .img-lines :after {
+	content: "";
+	height: 2px;
+	width: 12%;
+	position: absolute;
+	background: #dec7a6;
+	bottom: 0;
+	top: 36px;
+	left: 90px;
+}
+.img-our-service img {
+	position: relative;
+}
+.img-our-service h4 {
+	font-size: 85px;
+}
+.img-our-service p {
+	padding: 0px 120px;
+	margin: 0;
+	padding-top: 50px;
+}
+.img-lines {
+	position: relative;
+}
+.background-footer1 {
+	position: absolute;
+	bottom: 150px;
+	left: 0;
+}
+.background-footer {
+	position: absolute;
+	top: 310px;
+	right: 0;
+}
+.img-our-service :before {
+	right: 250px;
+}
+.img-our-service :after {
+	left: 250px;
+}
+.addtocart a {
+	border: 1px solid #d6d0c5;
+	padding: 10px;
+	border-radius: 30px;
+	text-decoration: none;
+	color: #121212;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 140px;
+	gap: 10px;
+	background-color: #fff;
+}
+.addtocart a:focus {
+	color: #121212;
+}
+.product-shop-image {
+	width: 100%;
+	background: #f8f5ef;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 40px;
+	position: relative;
+	height: 400px;
+}
+.mastache1 {
+	position: relative;
+}
+.addtocart {
+	position: absolute;
+	bottom: -20px;
+}
+ul.bread-wrapper-content {
+	display: flex;
+	margin: 0;
+	margin-bottom: 10px;
+	gap: 2px;
+	/* margin-top: 20px; */
+	padding-top: 30px;
+}
+.product-detail h4 {
+	font-size: 19px;
+	margin-top: 1px;
+	font-family: "OrpheusPro-Bold";
+}

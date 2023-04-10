@@ -1,0 +1,105 @@
+header.web-header {
+	background: #212121;
+}
+section.main-wrapper {
+	background: #5b5b5b;
+	min-height: 80vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	/* padding-top: 200px; */
+	margin-top: 113px;
+}
+section.main-wrapper * {
+	color: #fff;
+}
+.img-our-service .img-lines :before {
+	content: "";
+	height: 2px;
+	width: 12%;
+	position: absolute;
+	background: #dec7a6;
+	bottom: 0;
+	top: 36px;
+	right: 90px;
+}
+.img-our-service .img-lines :after {
+	content: "";
+	height: 2px;
+	width: 12%;
+	position: absolute;
+	background: #dec7a6;
+	bottom: 0;
+	top: 36px;
+	left: 90px;
+}
+.img-our-service img {
+	position: relative;
+}
+.img-our-service h4 {
+	font-size: 85px;
+}
+.img-our-service p {
+	padding: 0px 120px;
+	margin: 0;
+}
+.img-lines {
+	position: relative;
+}
+/*  */
+.card-location ul li {
+}
+.card-location ul li {
+	display: flex;
+	align-items: baseline;
+	gap: 10px;
+}
+.clif-card h3 {
+	font-size: 18px;
+	color: #060606;
+	font-family: "OrpheusPro-Bold";
+}
+.clif-card h5 {
+	font-size: 18px;
+	color: #7f7f7f;
+	font-family: "OrpheusPro-Bold";
+	line-height: 1.5;
+}
+.clif-card h5 span {
+	font-size: 18px;
+	color: #f6bb00;
+	font-family: "OrpheusPro-Bold";
+	line-height: 1.5;
+}
+.card-location ul li i {
+	font-size: 18px;
+}
+.card-location h2 {
+	font-size: 30px;
+}
+.card-location {
+	padding: 30px 40px;
+	box-shadow: 1px 1px 8px 0px rgb(59 49 49 / 60%);
+	-webkit-box-shadow: 1px 1px 8px 0px rgb(59 49 49 / 14%);
+	-moz-box-shadow: 1px 1px 8px 0px rgba(59, 49, 49, 0.6);
+	width: 90%;
+	position: relative;
+	top: -50px;
+	z-index: 1;
+	background: #fff;
+}
+.card {
+	border: none !important;
+	background-color: transparent !important;
+	position: relative;
+	top: -170px;
+}
+.card img {
+	width: 100%;
+	height: 536px;
+	object-fit: fill;
+}
+section.location-sec {
+	background: #f8f5ef;
+	padding: 100px 0 0px 0;
+}

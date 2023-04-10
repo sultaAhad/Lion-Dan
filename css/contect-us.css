@@ -1,0 +1,134 @@
+header.web-header {
+	background: #212121;
+}
+section.main-wrapper {
+	background: #5b5b5b;
+	min-height: 80vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	/* padding-top: 200px; */
+	margin-top: 113px;
+}
+.img-our-blog * {
+	color: #fff;
+	padding: 10px -10px;
+	font-family: "OrpheusPro-Bold" !important;
+}
+.img-our-blog a {
+	text-decoration: none;
+	color: #dec7a6;
+}
+.img-our-service .img-lines :before {
+	content: "";
+	height: 2px;
+	width: 12%;
+	position: absolute;
+	background: #dec7a6;
+	bottom: 0;
+	top: 36px;
+	right: 90px;
+}
+.img-our-service .img-lines :after {
+	content: "";
+	height: 2px;
+	width: 12%;
+	position: absolute;
+	background: #dec7a6;
+	bottom: 0;
+	top: 36px;
+	left: 90px;
+}
+.img-our-service img {
+	position: relative;
+}
+.img-our-service h4 {
+	font-size: 85px;
+}
+.img-our-service p {
+	padding: 0px 120px;
+	margin: 0;
+}
+.img-lines {
+	position: relative;
+}
+.img-lines {
+	position: relative;
+}
+/* .img-our-service1 .img-lines:before {
+	content: "";
+	height: 2px;
+	width: 70%;
+	position: absolute;
+	background: #dec7a6;
+	bottom: 0;
+	top: 36px;
+	right: 129px;
+}
+.img-our-service1 .img-lines:after {
+	content: "";
+	height: 2px;
+	width: 70%;
+	position: absolute;
+	background: #dec7a6;
+	bottom: 0;
+	top: 36px;
+	left: 120px;
+} */
+.card {
+	border: none !important;
+	background-color: transparent !important;
+	position: relative;
+	top: 0 !important;
+}
+.card-slider .card {
+	margin: 0px 20px;
+}
+.contect-us ul li {
+	display: flex;
+	align-items: flex-start;
+	gap: 20px;
+	margin-bottom: 20px;
+}
+.contect-us ul li i {
+	width: 40px;
+	height: 40px;
+	background: #3c3c3c;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.contect-us p {
+	padding-right: 150px;
+	margin-bottom: 30px;
+}
+.form-control-wrapper input {
+	border: none;
+	margin: 10px 0px;
+	padding: 7px;
+	background: transparent;
+	border-bottom: 1px solid #7f7f7f;
+}
+.form-control-wrapper input::placeholder {
+	color: #fff;
+}
+.form-control-wrapper textarea {
+	width: 100%;
+	border: none;
+	margin: 10px 0px;
+	padding: 7px;
+	background: transparent;
+	border-bottom: 1px solid #7f7f7f;
+	height: 100px;
+	resize: none;
+	color: #fff;
+}
+.form-control-wrapper textarea::placeholder {
+	color: #fff;
+}
+a.btn.join-btn {
+	width: 100%;
+	padding: 10px;
+	margin-top: 20px;
+	background: #dec7a6;
+}

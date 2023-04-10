@@ -1,0 +1,134 @@
+header.web-header {
+	background: #212121;
+}
+section.main-wrapper {
+	background: #121212;
+	min-height: 88vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: start;
+	padding-top: 60px;
+	margin-top: 113px;
+}
+section.main-wrapper * {
+	color: #fff;
+	padding: 0;
+}
+.img-our-service .img-lines :before {
+	content: "";
+	height: 2px;
+	width: 12%;
+	position: absolute;
+	background: #dec7a6;
+	bottom: 0;
+	top: 36px;
+	right: 90px;
+}
+.img-our-service .img-lines :after {
+	content: "";
+	height: 2px;
+	width: 12%;
+	position: absolute;
+	background: #dec7a6;
+	bottom: 0;
+	top: 36px;
+	left: 90px;
+}
+.img-our-service img {
+	position: relative;
+}
+.img-our-service h4 {
+	font-size: 85px;
+}
+.img-our-service p {
+	padding: 0px 120px;
+	margin: 0;
+}
+.img-lines {
+	position: relative;
+}
+/*  */
+.events-wrapper-heading h6 {
+	font-size: 15px;
+	font-family: "OrpheusPro-Bold" !important;
+	color: #d5b600;
+	margin-bottom: 21px;
+}
+.events-wrapper-heading1 h6 {
+	font-size: 15px;
+	font-family: "OrpheusPro-Bold" !important;
+	color: #d5b600;
+	margin-bottom: 21px;
+}
+.events-wrapper-heading h3 {
+	color: #fff;
+	font-size: 35px;
+}
+.events-wrapper-heading h3 {
+	color: #fff;
+	font-size: 35px;
+	font-family: "OrpheusPro-Bold" !important;
+}
+.absolute-wrapper {
+	background: #e3c720;
+	padding: 60px 40px;
+	position: absolute;
+	width: 540px;
+	bottom: 0;
+	right: 111px;
+}
+.absolute-wrapper h5 {
+	font-size: 18px;
+	font-family: "OrpheusPro-Bold" !important;
+	color: #121212;
+	margin-bottom: 30px;
+}
+
+.absolute-wrapper h4 {
+	font-size: 50px;
+	text-align: end;
+}
+section.event-sec {
+	position: relative;
+	padding: 0px 0 0px 0;
+}
+.top-events-wrapper {
+	position: relative;
+	top: -250px;
+}
+.events-wrapper img {
+	width: 100%;
+	height: 573px;
+	object-fit: fill;
+}
+.absolute-wrapper1 {
+	background: #e3c720;
+	padding: 60px 40px;
+	position: absolute;
+	width: 540px;
+	bottom: 0;
+	left: 139;
+	z-index: 1;
+}
+.events-wrapper-heading1 h3 {
+	color: #121212;
+	font-size: 35px;
+	font-family: "OrpheusPro-Bold" !important;
+}
+.top-events-wrapper1 {
+	position: relative;
+}
+.top-events-wrapper1 {
+	position: relative;
+	top: -170px;
+}
+.absolute-wrapper1 h5 {
+	font-size: 18px;
+	font-family: "OrpheusPro-Bold" !important;
+	color: #121212;
+	margin-bottom: 20px;
+}
+.absolute-wrapper1 h4 {
+	font-size: 50px;
+	text-align: end;
+}

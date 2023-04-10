@@ -3,10 +3,12 @@ header.web-header {
 }
 section.main-wrapper {
 	background: #5b5b5b;
-	min-height: 90vh;
+	min-height: 80vh;
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
+	/* padding-top: 200px; */
+	margin-top: 113px;
 }
 section.main-wrapper * {
 	color: #fff;
