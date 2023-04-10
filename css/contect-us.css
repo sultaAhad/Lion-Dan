@@ -132,3 +132,51 @@ a.btn.join-btn {
 	margin-top: 20px;
 	background: #dec7a6;
 }
+.card-slider .slick-prev:before {
+	content: "\f060" !important;
+	position: absolute;
+	width: 70px;
+	height: 60px;
+	background-color: #000;
+	font-family: "FontAwesome" !important;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 30px;
+	opacity: 1;
+}
+.card-slider .slick-next:before {
+	content: "\f061" !important;
+	position: absolute;
+	width: 70px;
+	height: 60px;
+	background-color: #000;
+	font-family: "FontAwesome" !important;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 30px;
+	opacity: 1;
+}
+section.location-sec {
+	background: #f8f5ef;
+	padding: 100px 0 0px 0;
+	position: relative;
+}
+.card-slider button.slick-next.slick-arrow {
+	top: -81px;
+	right: 0px;
+	left: 1009px;
+	position: absolute;
+}
+.card-slider button.slick-prev.slick-arrow {
+	top: -81px;
+	right: 80px;
+	left: 927px;
+	position: absolute;
+}
+section.location-sec h4 {
+	margin-left: 18px;
+	font-family: "OrpheusPro-Bold" !important;
+	font-size: 35px;
+}
