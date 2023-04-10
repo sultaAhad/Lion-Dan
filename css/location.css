@@ -87,6 +87,7 @@ section.main-wrapper * {
 	top: -50px;
 	z-index: 1;
 	background: #fff;
+	height: 390px;
 }
 .card {
 	border: none !important;
@@ -102,4 +103,13 @@ section.main-wrapper * {
 section.location-sec {
 	background: #f8f5ef;
 	padding: 100px 0 0px 0;
+}
+@media (max-width: 1367px) {
+	.img-our-service h4 {
+		font-size: 75px;
+	}
+	.img-our-service p {
+		padding: 0px 0px;
+		margin: 0;
+	}
 }

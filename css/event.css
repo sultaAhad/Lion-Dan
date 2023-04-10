@@ -132,3 +132,9 @@ section.event-sec {
 	font-size: 50px;
 	text-align: end;
 }
+@media (max-width: 1367px) {
+	.img-our-service h4 {
+		font-size: 75px;
+		margin-bottom: -2px;
+	}
+}
