@@ -1055,6 +1055,7 @@ footer p {
 	padding: 0px;
 	margin: 0px;
 	list-style-type: none;
+	display: none !important;
 }
 .Modern-Slider .slick-dots li button {
 	display: none;
@@ -1499,7 +1500,30 @@ ul.bread-wrapper-content {
 	margin-bottom: 10px;
 	gap: 8px;
 }
-.img-our-service :before {
+.img-footer-input.img-our-service .img-lines:before {
+	content: "";
+	height: 2px;
+	width: 20%;
+	position: absolute;
+	background: #dec7a6;
+	bottom: 0;
+	top: 40px;
+	right: 60px;
+}
+.img-footer-input.img-our-service .img-lines:after {
+	content: "";
+	height: 2px;
+	width: 20%;
+	position: absolute;
+	background: #dec7a6;
+	bottom: 0;
+	top: 40px;
+	left: 60px;
+}
+.our-service-btn1 {
+	margin-right: 28px;
+}
+.img-our-service .img-lines:before {
 	content: "";
 	height: 2px;
 	width: 20%;
@@ -1509,7 +1533,7 @@ ul.bread-wrapper-content {
 	top: 36px;
 	right: 100px;
 }
-.img-our-service :after {
+.img-our-service .img-lines:after {
 	content: "";
 	height: 2px;
 	width: 20%;

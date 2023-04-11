@@ -173,11 +173,29 @@
                             <figure>
                                 <img src="img/sliderabout1.png" class="img-fluid" alt="">
                             </figure>
+                            <div class="content-img">
+                                <div class="shaney">
+                                    <h4>SHANEY MERCADO</h4>
+                                    <h5>SENIOR BARBER</h5>
+                                </div>
+                                <div class="senior-wrapper-content">
+                                    <h6>CLIFFSIDE PARK</h6>
+                                </div>
+                            </div>
                         </div>
                         <div class="slider-img-about2 burnsTest">
                             <figure>
                                 <img src="img/sliderabout2.png" class="img-fluid" alt="">
                             </figure>
+                            <div class="content-img">
+                                <div class="shaney">
+                                    <h4>SHANEY MERCADO</h4>
+                                    <h5>SENIOR BARBER</h5>
+                                </div>
+                                <div class="senior-wrapper-content">
+                                    <h6>CLIFFSIDE PARK</h6>
+                                </div>
+                            </div>
                         </div>
                         <div class="slider-img-about burnsTest">
                             <figure>
@@ -197,11 +215,29 @@
                             <figure>
                                 <img src="img/sliderabout1.png" class="img-fluid" alt="">
                             </figure>
+                            <div class="content-img">
+                                <div class="shaney">
+                                    <h4>SHANEY MERCADO</h4>
+                                    <h5>SENIOR BARBER</h5>
+                                </div>
+                                <div class="senior-wrapper-content">
+                                    <h6>CLIFFSIDE PARK</h6>
+                                </div>
+                            </div>
                         </div>
                         <div class="slider-img-about2 burnsTest">
                             <figure>
                                 <img src="img/sliderabout2.png" class="img-fluid" alt="">
                             </figure>
+                            <div class="content-img">
+                                <div class="shaney">
+                                    <h4>SHANEY MERCADO</h4>
+                                    <h5>SENIOR BARBER</h5>
+                                </div>
+                                <div class="senior-wrapper-content">
+                                    <h6>CLIFFSIDE PARK</h6>
+                                </div>
+                            </div>
                         </div>
                         <div class="slider-img-about burnsTest">
                             <figure>
@@ -221,11 +257,29 @@
                             <figure>
                                 <img src="img/sliderabout1.png" class="img-fluid" alt="">
                             </figure>
+                            <div class="content-img">
+                                <div class="shaney">
+                                    <h4>SHANEY MERCADO</h4>
+                                    <h5>SENIOR BARBER</h5>
+                                </div>
+                                <div class="senior-wrapper-content">
+                                    <h6>CLIFFSIDE PARK</h6>
+                                </div>
+                            </div>
                         </div>
                         <div class="slider-img-about2 burnsTest">
                             <figure>
                                 <img src="img/sliderabout2.png" class="img-fluid" alt="">
                             </figure>
+                            <div class="content-img">
+                                <div class="shaney">
+                                    <h4>SHANEY MERCADO</h4>
+                                    <h5>SENIOR BARBER</h5>
+                                </div>
+                                <div class="senior-wrapper-content">
+                                    <h6>CLIFFSIDE PARK</h6>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>

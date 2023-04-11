@@ -18,6 +18,12 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+
+
+<!-- Wow Js CDN -->
+<script src="js/wow.min.js"></script>
+
 <script>
 new WOW().init();
 </script>

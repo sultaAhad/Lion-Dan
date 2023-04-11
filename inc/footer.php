@@ -9,13 +9,16 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-4 text-center mx-auto">
-                <div class="img-footer-input ">
-                    <img src="img/footer-logo.png" class="img-fluid " alt="">
+                <div class="img-footer-input img-our-service">
+                    <div class="img-lines">
+                        <img src="img/footer-logo.png" class="img-fluid " alt="">
+                    </div>
                     <h3>join the den club</h3>
                     <p>and received 10% off of your first order with us</p>
                     <div class="subscribe_newletter">
                         <div class="input-group mb-3">
-                            <input type="text" class="form-control" placeholder="Enter Your Email" aria-label="Recipient's username" aria-describedby="button-addon2">
+                            <input type="text" class="form-control" placeholder="Enter Your Email"
+                                aria-label="Recipient's username" aria-describedby="button-addon2">
                             <button class="btn btn btn-dark" type="button" id="button-addon2">
                                 subscribe now
                             </button>
@@ -33,7 +36,8 @@
                     <img src="img/footer-logo-wrapper.png" alt="" class="img-fluid">
                 </div>
                 <div class="footer-info">
-                    <p>At Lions Den Barber Shop, our traditional barber chairs, hot lather shaves, and head and neck massages set us apart in the barbering industry. </p>
+                    <p>At Lions Den Barber Shop, our traditional barber chairs, hot lather shaves, and head and neck
+                        massages set us apart in the barbering industry. </p>
                 </div>
                 <div class="icon-wrapper">
                     <ul class="social_icons13">
@@ -52,10 +56,10 @@
                         <h4>Manu</h4>
                     </div>
                     <div class="footerlinks">
-                        <a href="">Services</a>
-                        <a href="">Locations</a>
-                        <a href="">Apply Now</a>
-                        <a href="">events</a>
+                        <a href="service.php">Services</a>
+                        <a href="location.php">Locations</a>
+                        <a href="join-our-team.php">Apply Now</a>
+                        <a href="event.php">events</a>
                     </div>
                 </div>
             </div>
@@ -65,10 +69,11 @@
                         <h4>store</h4>
                     </div>
                     <div class="footerlinks">
-                        <a href="">shop</a>
+                        <a href="shop.php">shop</a>
                         <a href="">shipping</a>
                         <a href="">returns</a>
-                        <a href="">events</a>
+                        <a href="event.php">events</a>
+                        <a href="meet-the-tem.php">meet-the-team</a>
                     </div>
                 </div>
             </div>
@@ -77,7 +82,8 @@
                     <h4>about </h4>
                 </div>
                 <div class="footerlinks">
-                    <a href="">about lions den</a>
+                    <a href="about-us.php">about lions den</a>
+                    <a href="team-profile.php">team-profile</a>
                     <a href="">privacy policy</a>
                     <a href="">term & condition</a>
                 </div>

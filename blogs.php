@@ -313,9 +313,9 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- <a type="button" name="next" class="next btn green" value="Next">next <span> <i
-                                    class="fa fa-arrow-right" aria-hidden="true"></i>
-                            </span></a> -->
+                        <a type="button" href="blog-post.php" name="next" class="next btn green" value="Next">SUBMIT
+                            <span> <i class="fa fa-arrow-right" aria-hidden="true"></i>
+                            </span></a>
                     </fieldset>
                 </div>
             </div>

@@ -176,7 +176,7 @@ section.about-us-slider {
 	bottom: 0;
 	padding: 4px;
 	height: 3.75em;
-	background: rgba(241, 169, 1, 0.95);
+	background: transparent;
 	color: #3c4a50;
 	-webkit-transition: -webkit-transform 0.35s;
 	transition: transform 0.35s;

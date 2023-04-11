@@ -77,7 +77,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-4">
-                <div class="img-step con">
+                <div class="img-step con wow animate__animated animate__fadeInleft">
                     <img src="img/lion4.png" class="img-fluid" alt="">
                     <div class="overlay con_1">
                     </div>
@@ -87,13 +87,19 @@
                 <div class="step-heading">
                     <div class="row">
                         <div class="col-lg-12">
-                            <img src="img/step-img.png" class="img-fluid" alt="">
-                            <h2>step back in time and elevate your grooming experience</h2>
-                            <p> At Lions Den Barber Shop, our traditional barber chairs, hot lather shaves, and head and
+                            <img src="img/step-img.png" class="img-fluid wow animate__animated animate__fadeInDown "
+                                alt="">
+                            <h2 class="wow animate__animated animate__fadeInDown animate__delay-1s  ">step back in
+                                time
+                                and elevate your
+                                grooming experience</h2>
+                            <p class=" wow animate__animated animate__fadeInDown animate__delay-2s"> At Lions Den
+                                Barber Shop, our traditional barber chairs, hot lather shaves, and head and
                                 neck massages set us apart in the barbering industry. Whether you're looking for a
                                 classic buzz cut or a modern men's hairstyle, our skilled barbers will exceed your
                                 expectations. </p>
-                            <a class="btn service" href="">more about us</a>
+                            <a class="btn service  wow animate__animated animate__fadeInDown animate__delay-3s"
+                                href="">more about us</a>
                         </div>
                     </div>
                 </div>
@@ -113,9 +119,13 @@
         <div class="row">
             <div class="col-lg-7 mx-auto text-center">
                 <div class="img-our-service">
-                    <img src="img/footer-logo.png" class="img-fluid" alt="">
-                    <h4>Browse our service</h4>
-                    <p> Lions Den is an exclusive barbershop located in
+                    <div class="img-lines">
+                        <img src="img/footer-logo.png" class="img-fluid wow animate__animated animate__fadeInDown "
+                            alt="">
+                    </div>
+                    <h4 class="wow animate__animated animate__fadeInDown animate__delay-1s ">Browse our service</h4>
+                    <p class="wow animate__animated animate__fadeInDown animate__delay-2s "> Lions Den is an exclusive
+                        barbershop located in
                         Cliffside Park, New Jersey & Hoboken, </p>
                 </div>
             </div>
@@ -124,7 +134,7 @@
             <div class="col-lg-8 mx-auto">
                 <div class="row">
                     <div class="col-lg-6">
-                        <div class="mans-wrapper">
+                        <div class="mans-wrapper wow animate__animated animate__fadeInleft">
                             <h5>mens haircut</h5>
                             <h6>$250.00</h6>
                             <p> Lions Den is an exclusive barbershop located in
@@ -132,7 +142,7 @@
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <div class="mans-wrapper golden-border">
+                        <div class="mans-wrapper golden-border  wow animate__animated animate__fadeInright">
                             <h6 class="fovirate">member foverite!</h6>
                             <h5> haircut and beard line up</h5>
                             <h6>$50.00</h6>
@@ -143,7 +153,7 @@
                 </div>
                 <div class="row">
                     <div class="col-lg-6">
-                        <div class="mans-wrapper">
+                        <div class="mans-wrapper wow animate__animated animate__fadeInleft">
                             <h5> Haircut,Beard, Line Up,Hot Towel & Face Massage
                             </h5>
                             <h6>$60.00</h6>
@@ -153,7 +163,7 @@
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <div class="mans-wrapper ">
+                        <div class="mans-wrapper  wow animate__animated animate__fadeInright">
                             <h5>lions den experience</h5>
                             <h6>$125.00</h6>
                             <p> This service consists of a Haircut of choice with the beard shave or line up. It
@@ -165,8 +175,10 @@
                 <div class="row">
                     <div class="col-lg-12 mt-5 mb-5 text-center">
                         <div class="our-service-btn1">
-                            <a class="btn service" href="">book appointment</a>
-                            <a class="btn service1" href="">browse all service</a>
+                            <a class="btn service  wow animate__animated animate__fadeInleft " href="">book
+                                appointment</a>
+                            <a class="btn service1  wow animate__animated animate__fadeInright " href="">browse all
+                                service</a>
                         </div>
                     </div>
                 </div>
@@ -187,7 +199,7 @@
                 <div class="our-offer-heading">
                     <div class="row pb-5 align-items-center">
                         <div class="col-lg-9">
-                            <div class="heading-offer">
+                            <div class="heading-offer  wow animate__animated animate__fadeInleft ">
                                 <h2>WE OFFER AN UNIQUE EXPERIENCE</h2>
                                 <p> A barber experience that transports you back in time to the 1920s, complete with
                                     vintage décor, old-school barbering techniques, and a complimentary glass of
@@ -195,26 +207,27 @@
                             </div>
                         </div>
                         <div class="col-lg-3">
-                            <a class="btn service" href="">book appointment</a>
+                            <a class="btn service  wow animate__animated animate__fadeInright" href="">book
+                                appointment</a>
                         </div>
                     </div>
                     <div class="row mt-5">
                         <div class="col-lg-4">
-                            <div class="img-step con">
+                            <div class="img-step con  wow animate__animated animate__fadeInleft">
                                 <img src="img/lion6.png" class="img-fluid" alt="">
                                 <div class="overlay con_1">
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4">
-                            <div class="book-img-wrapper ">
+                            <div class="book-img-wrapper  wow animate__animated animate__fadeInDown  ">
                                 <div class="img-step con">
                                     <img src="img/lion13.png" class="img-fluid" alt="">
                                     <div class="overlay con_1">
                                     </div>
                                 </div>
                             </div>
-                            <div class="book-img-wrapper1 ">
+                            <div class="book-img-wrapper1  wow animate__animated animate__fadeInup  ">
                                 <div class="img-step con">
                                     <img src="img/lion10.png" class="img-fluid" alt="">
                                     <div class="overlay con_1">
@@ -223,7 +236,7 @@
                             </div>
                         </div>
                         <div class="col-lg-4">
-                            <div class="img-step con">
+                            <div class="img-step con  wow animate__animated animate__fadeInright ">
                                 <img src="img/lion7.png" class="img-fluid" alt="">
                                 <div class="overlay con_1">
                                 </div>
@@ -243,11 +256,12 @@
                     <div class="icon-service-wrapper ">
                         <i class="fa fa-play" aria-hidden="true"></i>
                     </div>
-                    <h4>TAKE A LOOK AT OUR WORK</h4>
-                    <p> A portfolio is not just a collection of your work. It's a reflection of who you are as a
+                    <h4 class="wow animate__animated animate__fadeInDown">TAKE A LOOK AT OUR WORK</h4>
+                    <p class="wow animate__animated animate__fadeInDown animate__delay-1s"> A portfolio is not just a
+                        collection of your work. It's a reflection of who you are as a
                         professional..
                     </p>
-                    <div class="bookbtn-service">
+                    <div class="bookbtn-service wow animate__animated animate__fadeInDown animate__delay-2s">
                         <a class="btn service12" href="">BOOK APPOINTMENT</a>
                     </div>
                 </div>
@@ -263,13 +277,14 @@
         <div class="row">
             <div class="col-lg-5">
                 <div class="why-choose-us-heading">
-                    <h3>WHY CHOOSE US</h3>
-                    <p> At our barbershop, we believe that grooming is an essential part of every man's routine. That's
+                    <h3 class="wow animate__animated animate__fadeInDown ">WHY CHOOSE US</h3>
+                    <p class="wow animate__animated animate__fadeInDown animate__delay-1s"> At our barbershop, we
+                        believe that grooming is an essential part of every man's routine. That's
                         why we offer a variety of services designed to cater to your unique needs, whether you're
                         looking for a classic cut, a modern style, or a relaxing shave. </p>
                 </div>
-                <div class="top-bubbles">
-                    <ul>
+                <div class="top-bubbles ">
+                    <ul class="wow animate__animated animate__fadeInDown animate__delay-2s">
                         <li><img src="img/hairstyle.png" class="img-fluid" alt="">
                             <div class="top-banner">
                                 <h5>top banners</h5>
@@ -288,20 +303,21 @@
                             </div>
                         </li>
                     </ul>
-                    <div class="col-lg-6">
-                        <a class="btn service" href="">book appointment</a>
+                    <div class="col-lg-6 ">
+                        <a class="btn service wow animate__animated animate__fadeInDown animate__delay-3s" href="">book
+                            appointment</a>
                     </div>
                 </div>
             </div>
             <div class="col-lg-1 p-0"></div>
             <div class="col-lg-6">
                 <div class="dbl-img">
-                    <div class="premium-wrapper-img img-step ">
+                    <div class="premium-wrapper-img img-step wow animate__animated animate__fadeInup">
                         <img src="img/lion15.png" class="img-fluid" alt="">
                         <div class="overlay con_1">
                         </div>
                     </div>
-                    <div class="premium-wrapper-img1 img-step">
+                    <div class="premium-wrapper-img1 img-step wow animate__animated animate__fadeInright">
                         <img src="img/lion18.png" class="img-fluid" alt="">
                         <div class="overlay con_1">
                         </div>
@@ -319,9 +335,13 @@
         <div class="row">
             <div class="col-lg-7 mx-auto text-center">
                 <div class="img-our-service">
-                    <img src="img/footer-logo.png" class="img-fluid" alt="">
-                    <h4>Browse our products</h4>
-                    <p> Products that truly resonate with customers and solve real problems and make their lives better
+                    <div class="img-lines">
+                        <img src="img/footer-logo.png" class="img-fluid wow animate__animated animate__fadeInDown "
+                            alt="">
+                    </div>
+                    <h4 class="wow animate__animated animate__fadeInDown animate__delay-1s">Browse our products</h4>
+                    <p class="wow animate__animated animate__fadeInDown animate__delay-2s"> Products that truly resonate
+                        with customers and solve real problems and make their lives better
                     </p>
                 </div>
             </div>
@@ -409,7 +429,7 @@
                         <div class="our-offer-heading">
                             <div class="row mb-3 align-items-center">
                                 <div class="col-lg-9">
-                                    <div class="heading-offer google-reviews">
+                                    <div class="heading-offer google-reviews wow animate__animated animate__fadeInleft">
                                         <img src="img/footer-logo.png" class="img-fluid" alt="">
                                         <h2>WHAT OUR CLIENTS SAY</h2>
                                         <p> With 450+ Google Reviews (and counting), we know that our customers are

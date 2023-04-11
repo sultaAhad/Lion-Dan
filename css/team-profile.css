@@ -1,0 +1,173 @@
+header.web-header {
+	background: #212121;
+}
+section.main-wrapper {
+	background: #5b5b5b;
+	min-height: 88vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding-top: 0px;
+	margin-top: 113px;
+	position: relative;
+}
+.img-our-service1 {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 100%;
+}
+section.main-wrapper * {
+	color: #fff;
+	font-family: "OrpheusPro-Bold";
+}
+.img-our-service1 img {
+	position: relative;
+}
+.img-our-service1 h4 {
+	font-size: 35px;
+	margin: 20px 0;
+}
+.img-our-service1 p {
+	padding: 0px 120px;
+	margin: 0;
+	text-align: center;
+}
+.img-lines {
+	position: relative;
+}
+.img-our-service1 .img-lines:before {
+	content: "";
+	height: 2px;
+	width: 70%;
+	position: absolute;
+	background: #dec7a6;
+	bottom: 0;
+	top: 36px;
+	right: 129px;
+}
+.img-our-service1 .img-lines:after {
+	content: "";
+	height: 2px;
+	width: 70%;
+	position: absolute;
+	background: #dec7a6;
+	bottom: 0;
+	top: 36px;
+	left: 120px;
+}
+/*  */
+.banner-background {
+	position: absolute;
+	left: 0;
+	bottom: 230px;
+}
+.join-imag.img-step.con {
+	position: absolute;
+}
+
+.img-our-team-profile h4 {
+	font-size: 50px;
+	margin-top: 20px;
+}
+.img-our-team-profile h5 {
+	color: #dec7a6;
+	font-size: 18px;
+}
+.img-our-team-profile h6 {
+	font-size: 18px;
+	margin-bottom: 40px;
+}
+.img-our-team-profile a.btn.service {
+	background: transparent;
+	border: 2px solid #fff;
+}
+.img-our-team-profile a.btn.service {
+	background: transparent;
+	border: 2px solid #fff;
+	color: #fff;
+}
+section.about-content {
+	background: #f8f5ef;
+	padding: 371px 0 100px 0;
+	position: relative;
+}
+.profile-background {
+	position: absolute;
+	right: 0;
+	top: 110px;
+}
+.profile-background1 {
+	position: absolute;
+	left: -140px;
+	top: 240px;
+}
+.jaun-paragraph h3 {
+	font-size: 35px;
+}
+.jaun-paragraph p {
+	line-height: 1.7;
+}
+.jaun-paragraph .btn {
+	border: 2px solid #070707;
+	background: transparent !important;
+	color: #070707;
+}
+.an-btn {
+	text-align: center;
+	margin-top: 40px;
+}
+.img-our-team-profile {
+	margin-top: 130px;
+}
+.join-imag.img-step.con {
+	position: absolute;
+	top: 140px;
+	bottom: 0;
+	z-index: 1;
+	height: 100%;
+	position: relative;
+}
+.btn-meet {
+	position: absolute;
+	bottom: 0;
+	display: flex;
+	align-items: center;
+	justify-content: start;
+	gap: 8px;
+	width: 100%;
+	z-index: 1;
+}
+
+.btn-meet a.btn.service.red-me {
+	width: 40%;
+	background: #dec7a68c !important;
+	border: none;
+}
+.btn-meet a.btn.service.red-me-book {
+	background: #bfc2c6a1;
+	border: none;
+	width: 60%;
+}
+.btn-meet .btn:focus {
+	box-shadow: none;
+}
+.img-our-team-profile.reverse {
+	margin: 50px 0;
+}
+section.about-content-sec {
+	padding-top: 210px;
+	background: #f8f5ef;
+	padding-bottom: 50px;
+	position: relative;
+}
+section.main-wrapper.margin-wrapper {
+	margin: 0;
+}
+.join-imag1.img-step.con img {
+	height: 616px;
+	width: 100%;
+	object-fit: fill;
+}
