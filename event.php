@@ -67,7 +67,7 @@
                 <div class="col-lg-1"></div>
                 <div class="col-lg-10">
                     <div class="row">
-                        <div class="col-lg-4">
+                        <div class="col-lg-4 events-wrapper-order2">
                             <div class="main-heading-events-absolute1">
                                 <div class="events-wrapper-heading1">
                                     <h6>LIONS DEN EVENT</h6>
@@ -86,7 +86,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-8">
+                        <div class="col-lg-8 events-wrapper-order1">
                             <div class="events-wrapper img-step con">
                                 <img src="img/event.png" class="img-fluid" alt="">
                                 <div class="overlay con_1">

@@ -180,3 +180,53 @@ section.location-sec h4 {
 	font-family: "OrpheusPro-Bold" !important;
 	font-size: 35px;
 }
+@media (max-width: 576px) {
+	.contect-us {
+		margin-top: 50px;
+	}
+	.main_heading1 h6 {
+		font-size: 40px;
+		margin-bottom: 23px;
+		font-family: "OrpheusPro-Bold";
+		margin-top: 20px;
+	}
+	section.faqs-sec {
+		padding-top: 10px;
+	}
+	.faq1 {
+		font-size: 14px;
+	}
+	.accordion-body ul li h6 {
+		font-size: 13px;
+	}
+	.clif-card h5 {
+		font-size: 13px;
+	}
+	.clif-card h5 span {
+		font-size: 14px;
+
+	}
+	.img-our-team-profile {
+		margin-top: 170px;
+	}
+	.img-our-team-profile h4 {
+		font-size: 43px;
+		margin-top: 20px;
+	}
+	.profile-background {
+		position: absolute;
+		right: 0;
+		top: 0px;
+	}
+	section.about-content-sec {
+		padding-top: 60px;
+		background: #f8f5ef;
+		padding-bottom: 50px;
+		position: relative;
+	}
+	.join-imag1.img-step.con img {
+		height: unset;
+		width: 100%;
+		object-fit: fill;
+	}
+}

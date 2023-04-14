@@ -296,3 +296,52 @@ section.about-us-slider {
 .about-main-slider-wrapper .slick-dots {
 	bottom: -80px;
 }
+@media (max-width: 576px) {
+	.img-our-about-us h4 {
+		font-size: 45px;
+		font-family: "OrpheusPro-Bold";
+	}
+	.image-who-are-you {
+		margin-bottom: 40px;
+	}
+	section.who-are-you {
+		padding: 30px 0 90px 0;
+	}
+	.counting {
+		align-items: center;
+		justify-content: space-around;
+		text-align: center;
+		margin-top: 50px;
+		display: flex;
+		flex-direction: column;
+		gap: 20px;
+	}
+	section.how-we-start {
+		padding: 40px 0 90px 0;
+	}
+	section.how-we-start {
+
+		margin-bottom: 20px;
+	}
+}
+@media (max-width: 769px) {
+	section.main-wrapper {
+		min-height: 70vh;
+	}
+	.counter-wrapper h2 {
+		font-size: 65px;
+
+	}
+	.counter-wrapper p {
+		font-size: 15px;
+	}
+	.image-who-are-you-second1 {
+
+		top: 390px;
+		right: 0;
+	}
+	section.how-we-start {
+
+		margin-bottom: 50px;
+	}
+}

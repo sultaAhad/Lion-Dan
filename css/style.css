@@ -1322,6 +1322,7 @@ section.our-services {
 .our-background1 {
 	position: absolute;
 	bottom: 40px;
+	z-index: -1;
 }
 .our-background {
 	position: absolute;
@@ -1826,6 +1827,9 @@ section.we-offer.client.slider {
 	transition-function: ease-in-out;
 	display: none;
 }
+.slider-gell1 .slick-list {
+	padding: 0 30% 0 0 !important;
+}
 @media (max-width: 1366px) {
 	.img-fill img {
 		min-height: 100%;
@@ -1863,10 +1867,46 @@ section.we-offer.client.slider {
 	.navbar1 {
 		display: block;
 	}
+	.img-step.con img {
+		width: 100%;
+		/* height: 700px; */
+		/* object-fit: fill; */
+		margin-bottom: 30px;
+	}
+}
+@media (max-width: 823px) {
+	.img-step.con img {
+		width: 100%;
+		/* height: 700px; */
+		/* object-fit: fill; */
+		margin-bottom: 30px;
+	}
+	.img-step.con img {
+		width: 100%;
+		/* height: 700px; */
+		/* object-fit: fill; */
+		margin-bottom: 70px;
+	}
+	section.we-offer {
+		padding: 150px 0 10px 0;
+	}
+	section.take-look {
+		height: 40%;
+	}
+	.img-our-service12 {
+		height: 40vh;
+	}
+	.bread-man {
+		padding: 40px 30px;
+		height: 490px !important;
+	}
 }
 @media (max-width: 576px) {
 	.navbar-logo-wrapper {
 		width: 90%;
+	}
+	.background-footer {
+		top: 30%;
 	}
 	.Modern-Slider .item .img-fill {
 		height: 70vh;
@@ -1899,12 +1939,12 @@ section.we-offer.client.slider {
 		padding: 40px 0;
 	}
 	.img-our-service .img-lines:after {
-		top: 50%;
-		left: 10%;
+		top: 50% !important;
+		left: 10% !important;
 	}
 	.img-our-service .img-lines:before {
-		top: 50%;
-		right: 10%;
+		top: 50% !important;
+		right: 10% !important;
 	}
 	.img-our-service h4 {
 		font-size: 30px;
@@ -1913,7 +1953,7 @@ section.we-offer.client.slider {
 		padding: 0 0px;
 	}
 	.img-our-service {
-		padding-bottom: 0px;
+		padding-bottom: 30px;
 		position: relative;
 	}
 	.our-background1 {
@@ -1930,6 +1970,7 @@ section.we-offer.client.slider {
 		color: #212529;
 		text-transform: uppercase;
 		font-size: 13px;
+		/* margin-bottom: 20px; */
 	}
 	.our-service-btn1 a {
 		margin-right: 10px;
@@ -1972,5 +2013,32 @@ section.we-offer.client.slider {
 	}
 	.why-choose-us-heading h3 {
 		font-size: 30px;
+	}
+	.heading-offer.google-reviews p {
+		padding-right: 0;
+	}
+	.our-offer-heading {
+		padding: 0px;
+	}
+	section.we-offer.client.slider .container-fluid.p-0 {
+		padding: 20px !important;
+	}
+	section.we-offer.client.slider {
+		padding-bottom: 2px;
+	}
+	.bread-man {
+		height: 470px !important;
+	}
+	.our-service-btn {
+		margin-left: 0;
+	}
+	.legal-heading {
+		margin-top: 59px;
+	}
+	.footer-heading {
+		margin-top: 30px;
+	}
+	.copy-right p {
+		font-size: 10px;
 	}
 }

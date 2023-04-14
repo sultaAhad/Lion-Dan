@@ -13,18 +13,18 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="img-our-about-us">
-                    <h4>ABOUT OUR BARBER SHOP
+                    <h4 class="wow animate__animated animate__fadeInDown ">ABOUT OUR BARBER SHOP
                     </h4>
                     <div class="col-lg-6">
-                        <p>More than just a Barber Shop, we provide classic barbershop service with legendary
+                        <p class="wow animate__animated animate__fadeInDown animate__delay-1s">More than just a Barber Shop, we provide classic barbershop service with legendary
                             style.egestas
                             purus et mi tempus semper id vel prci eu magna in senectus sit eget justo eget.</p>
                     </div>
                     <div class="row">
-                        <div class="col-lg-12 mt-5 mb-5 text-left">
+                        <div class="col-lg-12 mt-5 mb-5 text-left wow animate__animated animate__fadeInDown animate__delay-2s">
                             <div class="our-service-btn1">
-                                <a class="btn service" href="">book appointment</a>
-                                <a class="btn service1" href="">BROWSE SERVICES</a>
+                                <a class="btn service " href="">book appointment</a>
+                                <a class="btn service1 " href="">BROWSE SERVICES</a>
                             </div>
                         </div>
                     </div>
@@ -40,26 +40,30 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-5">
-                <div class="image-who-are-you">
+                <div class="image-who-are-you img-step con wow animate__animated animate__fadeInLeft ">
                     <img src="img/about-image.png" class="img-fluid" alt="">
+                    <div class="overlay con_1">
+                    </div>
                 </div>
             </div>
             <div class="col-lg-1 p-0"></div>
             <div class="col-lg-6">
                 <div class="main-about-heading">
-                    <div class="image-who-are-you1">
+                    <div class="image-who-are-you1 img-step con wow animate__animated animate__fadeInRight">
                         <img src="img/about-img.png" class="img-fluid" alt="">
+                        <div class="overlay con_1">
+                        </div>
                     </div>
-                    <h2>WHO WE ARE</h2>
+                    <h2 class="wow animate__animated animate__fadeInDown ">WHO WE ARE</h2>
                     <div class="col-lg-10">
-                        <p>Step back in time and elevate your grooming experience. At Lions Den Barber Shop, our
+                        <p class="wow animate__animated animate__fadeInDown animate__delay-0.3s">Step back in time and elevate your grooming experience. At Lions Den Barber Shop, our
                             traditional
                             barber chairs, hot lather shaves, and head and neck massages set us apart in the barbering
                             industry. Whether you're looking for a classic buzz cut or a modern men's hairstyle, our
                             skilled
                             barbers will exceed your expectations.
                         </p>
-                        <p>Odo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+                        <p class="wow animate__animated animate__fadeInDown animate__delay-0.6s">Odo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
                             eu
                             fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
                             officia
@@ -67,7 +71,7 @@
                         </p>
                     </div>
                     <div class="row">
-                        <div class="col-lg-12 mt-2 mb-2 text-left">
+                        <div class="col-lg-12 mt-2 mb-2 text-left wow animate__animated animate__fadeInDown animate__delay-1s">
                             <div class="our-service-btn1">
                                 <a class="btn service" href="">BOOK AN APPOINTMENT</a>
                             </div>
@@ -79,15 +83,15 @@
         <div class="row">
             <div class="col-lg-10 mx-auto">
                 <div class="counting">
-                    <div class="counter-wrapper">
+                    <div class="counter-wrapper  wow animate__animated animate__fadeInLeft animation-delay: 0.3s;">
                         <h2>99 <span> %</span></h2>
                         <p>CUSTOMER SATISFACTION</p>
                     </div>
-                    <div class="counter-wrapper">
+                    <div class="counter-wrapper  wow animate__animated animate__fadeInLeft animation-delay: 0.6s;">
                         <h2>20K<span> + </span></h2>
                         <p>SERVICES PROVIDED</p>
                     </div>
-                    <div class="counter-wrapper">
+                    <div class="counter-wrapper  wow animate__animated animate__fadeInLeft animation-delay: 0.9s;">
                         <h2>5+</h2>
                         <p>YEARS OF EXPERIENCE</p>
                     </div>

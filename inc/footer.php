@@ -17,8 +17,7 @@
                     <p>and received 10% off of your first order with us</p>
                     <div class="subscribe_newletter">
                         <div class="input-group mb-3">
-                            <input type="text" class="form-control" placeholder="Enter Your Email"
-                                aria-label="Recipient's username" aria-describedby="button-addon2">
+                            <input type="text" class="form-control" placeholder="Enter Your Email" aria-label="Recipient's username" aria-describedby="button-addon2">
                             <button class="btn btn btn-dark" type="button" id="button-addon2">
                                 subscribe now
                             </button>
@@ -50,7 +49,7 @@
 
             </div>
             <div class="col-lg-1"></div>
-            <div class="col-md-2 ">
+            <div class="col-md-2 col-6 ">
                 <div class="footerlinks-wrapper">
                     <div class="footer-heading">
                         <h4>Manu</h4>
@@ -63,7 +62,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-2">
+            <div class="col-md-2 col-6">
                 <div class="footerlinks-wrapper">
                     <div class="legal-heading">
                         <h4>store</h4>

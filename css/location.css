@@ -113,3 +113,21 @@ section.location-sec {
 		margin: 0;
 	}
 }
+@media (max-width: 576px) {
+	.img-our-service h4 {
+		font-size: 45px;
+	}
+	section.main-wrapper {
+		min-height: 60vh;
+	}
+	.events-wrapper.img-step.con img {
+		height: 450px;
+		object-fit: cover;
+	}
+	.clif-card h5 {
+		font-size: 15px;
+	}
+	.img-our-service h4 {
+		font-size: 45px;
+	}
+}

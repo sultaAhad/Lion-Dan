@@ -83,7 +83,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-6 mt-5">
+                            <div class="col-lg-6 mt-5 marginzero">
                                 <div class="img-wrapper-blogs">
                                     <img src="img/blogs.png" class="img-fluid" alt="">
                                     <div class="tips-heading">
@@ -105,7 +105,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-6 mt-5">
+                            <div class="col-lg-6 mt-5 marginzero">
                                 <div class="img-wrapper-blogs">
                                     <img src="img/blogs.png" class="img-fluid" alt="">
                                     <div class="tips-heading">
@@ -131,7 +131,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-6 mt-5">
+                            <div class="col-lg-6 mt-5 marginzero">
                                 <div class="img-wrapper-blogs">
                                     <img src="img/blogs.png" class="img-fluid" alt="">
                                     <div class="tips-heading">
@@ -143,7 +143,7 @@
                             </div>
                         </div>
                         <div class="row">
-                            <div class="col-lg-6">
+                            <div class="col-lg-6 ">
                                 <div class="img-wrapper-blogs">
                                     <img src="img/blogs.png" class="img-fluid" alt="">
                                     <div class="tips-heading">
@@ -153,57 +153,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-6 mt-5">
-                                <div class="img-wrapper-blogs">
-                                    <img src="img/blogs.png" class="img-fluid" alt="">
-                                    <div class="tips-heading">
-                                        <h6>TIPS -- MAR 24,2023</h6>
-                                        <h4>HOW TO KEEP YOUR RAZORS SHARP AS BRAND NEW</h4>
-                                        <a href="">READ MORE</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- <input type="button" name="previous" class="previous action-button" value="Previous" /> -->
-                        <a type="button" name="next" class="next btn service" value="Next">next <span> <i
-                                    class="fa fa-arrow-right" aria-hidden="true"></i>
-                            </span></a>
-                    </fieldset>
-                    <fieldset>
-                        <div class="row">
-                            <div class="col-lg-6">
-                                <div class="img-wrapper-blogs">
-                                    <img src="img/blogs.png" class="img-fluid" alt="">
-                                    <div class="tips-heading">
-                                        <h6>TIPS -- MAR 24,2023</h6>
-                                        <h4>HOW TO KEEP YOUR RAZORS SHARP AS BRAND NEW</h4>
-                                        <a href="">READ MORE</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 mt-5">
-                                <div class="img-wrapper-blogs">
-                                    <img src="img/blogs.png" class="img-fluid" alt="">
-                                    <div class="tips-heading">
-                                        <h6>TIPS -- MAR 24,2023</h6>
-                                        <h4>HOW TO KEEP YOUR RAZORS SHARP AS BRAND NEW</h4>
-                                        <a href="">READ MORE</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-lg-6">
-                                <div class="img-wrapper-blogs">
-                                    <img src="img/blogs.png" class="img-fluid" alt="">
-                                    <div class="tips-heading">
-                                        <h6>TIPS -- MAR 24,2023</h6>
-                                        <h4>HOW TO KEEP YOUR RAZORS SHARP AS BRAND NEW</h4>
-                                        <a href="">READ MORE</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6 mt-5">
+                            <div class="col-lg-6 mt-5 marginzero">
                                 <div class="img-wrapper-blogs">
                                     <img src="img/blogs.png" class="img-fluid" alt="">
                                     <div class="tips-heading">
@@ -215,8 +165,7 @@
                             </div>
                         </div>
                         <!-- <input type="button" name="previous" class="previous action-button" value="Previous" /> -->
-                        <a type="button" name="next" class="next btn service" value="Next">next <span> <i
-                                    class="fa fa-arrow-right" aria-hidden="true"></i>
+                        <a type="button" name="next" class="next btn service" value="Next">next <span> <i class="fa fa-arrow-right" aria-hidden="true"></i>
                             </span></a>
                     </fieldset>
                     <fieldset>
@@ -231,7 +180,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-6 mt-5">
+                            <div class="col-lg-6 mt-5 marginzero">
                                 <div class="img-wrapper-blogs">
                                     <img src="img/blogs.png" class="img-fluid" alt="">
                                     <div class="tips-heading">
@@ -253,7 +202,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-6 mt-5">
+                            <div class="col-lg-6 mt-5 marginzero">
                                 <div class="img-wrapper-blogs">
                                     <img src="img/blogs.png" class="img-fluid" alt="">
                                     <div class="tips-heading">
@@ -264,8 +213,8 @@
                                 </div>
                             </div>
                         </div>
-                        <a type="button" name="next" class="next btn service" value="Next">next <span> <i
-                                    class="fa fa-arrow-right" aria-hidden="true"></i>
+                        <!-- <input type="button" name="previous" class="previous action-button" value="Previous" /> -->
+                        <a type="button" name="next" class="next btn service" value="Next">next <span> <i class="fa fa-arrow-right" aria-hidden="true"></i>
                             </span></a>
                     </fieldset>
                     <fieldset>
@@ -280,7 +229,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-6 mt-5">
+                            <div class="col-lg-6 mt-5 marginzero">
                                 <div class="img-wrapper-blogs">
                                     <img src="img/blogs.png" class="img-fluid" alt="">
                                     <div class="tips-heading">
@@ -302,7 +251,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-lg-6 mt-5">
+                            <div class="col-lg-6 mt-5 marginzero">
                                 <div class="img-wrapper-blogs">
                                     <img src="img/blogs.png" class="img-fluid" alt="">
                                     <div class="tips-heading">

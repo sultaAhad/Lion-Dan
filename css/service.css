@@ -86,3 +86,35 @@ section.main-wrapper * {
 .brn-main {
 	margin-top: 80px;
 }
+@media (max-width: 576px) {
+	section.main-wrapper {
+		margin-top: 113px;
+		min-height: 50vh;
+	}
+	.img-our-service h4 {
+		font-size: 45px;
+	}
+	.img-our-service p {
+		padding: 0px 20px;
+		margin: 0;
+	}
+	.our-service-btn1 {
+		margin-right: 0px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+	.add-wrapper p {
+		padding-right: 0px;
+	}
+	.img-our-service h4 {
+		font-size: 45px;
+	}
+	section.main-wrapper {
+		min-height: 60vh;
+	}
+	.events-wrapper.img-step.con img {
+		height: 450px;
+		object-fit: cover;
+	}
+}

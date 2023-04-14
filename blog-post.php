@@ -9,7 +9,7 @@
 <!-- style css -->
 <section class="main-wrapper">
     <div class="container">
-        <div class="relative-blogs blog-post">
+        <div class="relative-blogs blog-post blog-spot1">
             <div class="row">
                 <div class="col-lg-10 mx-auto ">
                     <h6>TIPS OCT 24, 2022</h6>

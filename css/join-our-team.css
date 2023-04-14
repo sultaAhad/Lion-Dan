@@ -105,3 +105,18 @@ a.btn.join-btn {
 	color: #fff;
 	font-size: 20px;
 }
+@media (max-width: 576px) {
+	section.main-wrapper * {
+		margin-top: 16px;
+	}
+	.img-our-service1 p {
+		padding: 0px 30px;
+		margin: 0;
+		text-align: center;
+	}
+	.form-control-wrapper input {
+		border: none;
+		padding: 10px;
+		margin: 10px 0;
+	}
+}
