@@ -15,12 +15,13 @@
         <div class="row">
             <div class="col-lg-10 mx-auto text-center">
                 <div class="img-our-service">
-                    <div class="img-lines">
+                    <div class="img-lines wow animate__animated animate__fadeInDown animate__delay-0.3s">
                         <img src="img/footer-logo.png" class="img-fluid" alt="">
                     </div>
-                    <h4>BROWSE OUR PRODUCTS
+                    <h4 class="wow animate__animated animate__fadeInDown animate__delay-0.6s">BROWSE OUR PRODUCTS
                     </h4>
-                    <p>Products that truly resonate with customers and solve real problems and make their lives better
+                    <p class="wow animate__animated animate__fadeInDown animate__delay-0.9s">Products that truly
+                        resonate with customers and solve real problems and make their lives better
                     </p>
                 </div>
             </div>

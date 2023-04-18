@@ -13,12 +13,13 @@
             <div class="col-lg-1"></div>
             <div class="col-lg-5">
                 <div class="img-our-service1">
-                    <div class="img-lines">
+                    <div class="img-lines wow animate__animated animate__fadeInDown animate__delay-0.3s">
                         <img src="img/footer-logo.png" class="img-fluid" alt="">
                     </div>
-                    <h4>JOIN OUR TEAM
+                    <h4 class="wow animate__animated animate__fadeInDown animate__delay-0.6s">JOIN OUR TEAM
                     </h4>
-                    <p>We only hire barbers with great attitude and energy. When it comes to talent and style, there are
+                    <p class="wow animate__animated animate__fadeInDown animate__delay-0.9s">We only hire barbers with
+                        great attitude and energy. When it comes to talent and style, there are
                         no boundaries.
                     </p>
                 </div>

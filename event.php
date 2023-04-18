@@ -12,12 +12,13 @@
         <div class="row">
             <div class="col-lg-7 mx-auto text-center">
                 <div class="img-our-service">
-                    <div class="img-lines">
+                    <div class="img-lines wow animate__animated animate__fadeInDown animate__delay-0.3s">
                         <img src="img/footer-logo.png" class="img-fluid" alt="">
                     </div>
-                    <h4>EVENTS
+                    <h4 class="wow animate__animated animate__fadeInDown animate__delay-0.6s">EVENTS
                     </h4>
-                    <p>Products that truly resonate with customers and solve real problems and make their lives better
+                    <p class="wow animate__animated animate__fadeInDown animate__delay-0.9s">Products that truly
+                        resonate with customers and solve real problems and make their lives better
                     </p>
                 </div>
             </div>
@@ -32,7 +33,7 @@
                 <div class="col-lg-10">
                     <div class="row">
                         <div class="col-lg-8">
-                            <div class="events-wrapper img-step con">
+                            <div class="events-wrapper img-step con ">
                                 <img src="img/event1.png" class="img-fluid" alt="">
                                 <div class="overlay con_1">
                                 </div>

@@ -12,11 +12,12 @@
         <div class="row">
             <div class="col-lg-7 mx-auto text-center">
                 <div class="img-our-service">
-                    <div class="img-lines">
+                    <div class="img-lines wow animate__animated animate__fadeInDown animate__delay-0.3s">
                         <img src="img/footer-logo.png" class="img-fluid" alt="">
                     </div>
-                    <h4>OUR LOCATIONS</h4>
-                    <p>With its twolocation in New jersey, and a team of barbers offering bespoke haircut services,
+                    <h4 class="wow animate__animated animate__fadeInDown animate__delay-0.6s">OUR LOCATIONS</h4>
+                    <p class="wow animate__animated animate__fadeInDown animate__delay-0.9s">With its twolocation in New
+                        jersey, and a team of barbers offering bespoke haircut services,
                         Lions den is committed to providing you with a five-star service from start to end. Take a
                         look at our current and upcoming locations,
                         and book an appointment online.</p>
@@ -29,7 +30,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
-                <div class="card">
+                <div class="card wow animate__animated animate__fadeInLeft animate__delay-1s">
                     <div class="events-wrapper img-step con">
                         <img src="img/location-image.png" class="img-fluid" alt="">
                         <div class="overlay con_1">
@@ -72,7 +73,7 @@
                 </div>
             </div>
             <div class="col-lg-6">
-                <div class="card">
+                <div class="card wow animate__animated animate__fadeInRight animate__delay-1s">
                     <div class="events-wrapper img-step con">
                         <img src="img/location-image.png" class="img-fluid" alt="">
                         <div class="overlay con_1">

@@ -16,12 +16,14 @@
                     <h4 class="wow animate__animated animate__fadeInDown ">ABOUT OUR BARBER SHOP
                     </h4>
                     <div class="col-lg-6">
-                        <p class="wow animate__animated animate__fadeInDown animate__delay-1s">More than just a Barber Shop, we provide classic barbershop service with legendary
+                        <p class="wow animate__animated animate__fadeInDown animate__delay-1s">More than just a Barber
+                            Shop, we provide classic barbershop service with legendary
                             style.egestas
                             purus et mi tempus semper id vel prci eu magna in senectus sit eget justo eget.</p>
                     </div>
                     <div class="row">
-                        <div class="col-lg-12 mt-5 mb-5 text-left wow animate__animated animate__fadeInDown animate__delay-2s">
+                        <div
+                            class="col-lg-12 mt-5 mb-5 text-left wow animate__animated animate__fadeInDown animate__delay-2s">
                             <div class="our-service-btn1">
                                 <a class="btn service " href="">book appointment</a>
                                 <a class="btn service1 " href="">BROWSE SERVICES</a>
@@ -56,14 +58,16 @@
                     </div>
                     <h2 class="wow animate__animated animate__fadeInDown ">WHO WE ARE</h2>
                     <div class="col-lg-10">
-                        <p class="wow animate__animated animate__fadeInDown animate__delay-0.3s">Step back in time and elevate your grooming experience. At Lions Den Barber Shop, our
+                        <p class="wow animate__animated animate__fadeInDown animate__delay-0.3s">Step back in time and
+                            elevate your grooming experience. At Lions Den Barber Shop, our
                             traditional
                             barber chairs, hot lather shaves, and head and neck massages set us apart in the barbering
                             industry. Whether you're looking for a classic buzz cut or a modern men's hairstyle, our
                             skilled
                             barbers will exceed your expectations.
                         </p>
-                        <p class="wow animate__animated animate__fadeInDown animate__delay-0.6s">Odo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+                        <p class="wow animate__animated animate__fadeInDown animate__delay-0.6s">Odo consequat. Duis
+                            aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
                             eu
                             fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
                             officia
@@ -71,7 +75,8 @@
                         </p>
                     </div>
                     <div class="row">
-                        <div class="col-lg-12 mt-2 mb-2 text-left wow animate__animated animate__fadeInDown animate__delay-1s">
+                        <div
+                            class="col-lg-12 mt-2 mb-2 text-left wow animate__animated animate__fadeInDown animate__delay-1s">
                             <div class="our-service-btn1">
                                 <a class="btn service" href="">BOOK AN APPOINTMENT</a>
                             </div>
@@ -105,27 +110,36 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="main-about-heading">
-                    <h2>HOW WE STARTED OUR BARBER SHOP</h2>
-                    <p>Step back in time and elevate your grooming experience. At Lions Den Barber Shop, our traditional
+                    <h2 class="wow animate__animated animate__fadeInDown animate__delay-0.3s">HOW WE STARTED OUR BARBER
+                        SHOP</h2>
+                    <p class="wow animate__animated animate__fadeInDown animate__delay-0.6s">Step back in time and
+                        elevate your grooming experience. At Lions Den Barber Shop, our traditional
                         barber chairs, hot lather shaves, and head and neck massages set us apart in the barbering
                         industry. Whether you're looking for a classic buzz cut or a modern men's hairstyle, our skilled
                         barbers will exceed your expectations.
                     </p>
                     <div class="row">
-                        <div class="col-lg-12 mt-2 mb-4 text-left">
+                        <div
+                            class="col-lg-12 mt-2 mb-4 text-left wow animate__animated animate__fadeInDown animate__delay-0.9s">
                             <div class="our-service-btn1 second-about-us">
                                 <a class="btn service" href="">BOOK AN APPOINTMENT</a>
                             </div>
                         </div>
                     </div>
-                    <div class="image-who-are-you-second1 second-about-img">
+                    <div
+                        class="image-who-are-you-second1 img-step con second-about-img wow animate__animated animate__fadeInLeft animate__delay-0.3s">
                         <img src="img/about-image2.png" class="img-fluid" alt="">
+                        <div class="overlay con_1">
+                        </div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-5">
-                <div class="image-who-are-you1">
+                <div
+                    class="image-who-are-you1 img-step con wow animate__animated animate__fadeInRight animate__delay-0.3s">
                     <img src="img/about-image1.png" class="img-fluid" alt="">
+                    <div class="overlay con_1">
+                    </div>
                 </div>
             </div>
             <div class="col-lg-1 p-0"></div>
@@ -146,8 +160,10 @@
                     <div class="row mb-3 align-items-center">
                         <div class="col-lg-9 mx-auto text-center">
                             <div class="third-section">
-                                <h2>MEET OUR TEAM</h2>
-                                <p> LIONS DEN is an amazing brand of barbershops located in
+                                <h2 class="wow animate__animated animate__fadeInRight animate__delay-0.3s">MEET OUR TEAM
+                                </h2>
+                                <p class="wow animate__animated animate__fadeInLeft animate__delay-0.3s"> LIONS DEN is
+                                    an amazing brand of barbershops located in
                                     Cliffside Park, NJ & Hoboken, NJ </p>
                             </div>
                         </div>
