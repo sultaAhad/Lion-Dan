@@ -97,7 +97,7 @@
                     <div class="col-lg-6">
                         <div class="card">
                             <div class="events-wrapper img-step con">
-                                <img src="img/location-image.png" class="img-fluid" alt="">
+                                <img src="img/location-image.webp" class="img-fluid" alt="">
                                 <div class="overlay con_1">
                                 </div>
                             </div>
@@ -140,7 +140,7 @@
                     <div class="col-lg-6">
                         <div class="card">
                             <div class="events-wrapper img-step con">
-                                <img src="img/location-image.png" class="img-fluid" alt="">
+                                <img src="img/location-image.webp" class="img-fluid" alt="">
                                 <div class="overlay con_1">
                                 </div>
                             </div>
@@ -184,7 +184,7 @@
                     <div class="col-lg-6">
                         <div class="card">
                             <div class="events-wrapper img-step con">
-                                <img src="img/location-image.png" class="img-fluid" alt="">
+                                <img src="img/location-image.webp" class="img-fluid" alt="">
                                 <div class="overlay con_1">
                                 </div>
                             </div>
@@ -228,7 +228,7 @@
                     <div class="col-lg-6">
                         <div class="card">
                             <div class="events-wrapper img-step con">
-                                <img src="img/location-image.png" class="img-fluid" alt="">
+                                <img src="img/location-image.webp" class="img-fluid" alt="">
                                 <div class="overlay con_1">
                                 </div>
                             </div>
@@ -272,7 +272,7 @@
                     <div class="col-lg-6">
                         <div class="card">
                             <div class="events-wrapper img-step con">
-                                <img src="img/location-image.png" class="img-fluid" alt="">
+                                <img src="img/location-image.webp" class="img-fluid" alt="">
                                 <div class="overlay con_1">
                                 </div>
                             </div>
@@ -316,7 +316,7 @@
                     <div class="col-lg-6">
                         <div class="card">
                             <div class="events-wrapper img-step con">
-                                <img src="img/location-image.png" class="img-fluid" alt="">
+                                <img src="img/location-image.webp" class="img-fluid" alt="">
                                 <div class="overlay con_1">
                                 </div>
                             </div>
@@ -372,7 +372,7 @@
                             <div class="col-lg-6 mx-auto">
                                 <div class="main_heading1 img-our-service1 ">
                                     <div class="img-lines">
-                                        <img src="img/footer-logo.png" class="img-fluid" alt="">
+                                        <img src="img/footer-logo.webp" class="img-fluid" alt="">
                                     </div>
                                     <h6>FREQUENTLY ASKED QUESTIONS
                                     </h6>

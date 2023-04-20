@@ -9,14 +9,14 @@
 <!-- style css -->
 <section class="main-wrapper">
     <div class="background-footer1">
-        <img src="img/perfume.png" class="img-fluid" alt="">
+        <img src="img/perfume.webp" class="img-fluid" alt="">
     </div>
     <div class="container">
         <div class="row">
             <div class="col-lg-10 mx-auto text-center">
                 <div class="img-our-service">
                     <div class="img-lines wow animate__animated animate__fadeInDown animate__delay-0.3s">
-                        <img src="img/footer-logo.png" class="img-fluid" alt="">
+                        <img src="img/footer-logo.webp" class="img-fluid" alt="">
                     </div>
                     <h4 class="wow animate__animated animate__fadeInDown animate__delay-0.6s">BROWSE OUR PRODUCTS
                     </h4>
@@ -28,7 +28,7 @@
         </div>
     </div>
     <div class="background-footer">
-        <img src="img/perfume1.png" class="img-fluid" alt="">
+        <img src="img/perfume1.webp" class="img-fluid" alt="">
     </div>
 </section>
 <section class="our-services">
@@ -40,9 +40,9 @@
                         <div class="product-detail">
                             <div class="mastache1">
                                 <div class="product-shop-image">
-                                    <img src="img/product-gell.png" class="img-fluid" alt="">
+                                    <img src="img/product-gell.webp" class="img-fluid" alt="">
                                     <div class="addtocart">
-                                        <a href=""> <img src="img/cart.png" class="img-fluid" alt="">
+                                        <a href=""> <img src="img/cart.webp" class="img-fluid" alt="">
                                             <span> add to cart </span></a>
                                     </div>
                                 </div>
@@ -65,9 +65,9 @@
                         <div class="product-detail">
                             <div class="mastache1">
                                 <div class="product-shop-image">
-                                    <img src="img/product-gell1.png" class="img-fluid" alt="">
+                                    <img src="img/product-gell1.webp" class="img-fluid" alt="">
                                     <div class="addtocart">
-                                        <a href=""> <img src="img/cart.png" class="img-fluid" alt="">
+                                        <a href=""> <img src="img/cart.webp" class="img-fluid" alt="">
                                             <span> add to cart </span></a>
                                     </div>
                                 </div>
@@ -90,9 +90,9 @@
                         <div class="product-detail">
                             <div class="mastache1">
                                 <div class="product-shop-image">
-                                    <img src="img/product-gell2.png" class="img-fluid" alt="">
+                                    <img src="img/product-gell2.webp" class="img-fluid" alt="">
                                     <div class="addtocart">
-                                        <a href=""> <img src="img/cart.png" class="img-fluid" alt="">
+                                        <a href=""> <img src="img/cart.webp" class="img-fluid" alt="">
                                             <span> add to cart </span></a>
                                     </div>
                                 </div>
@@ -115,9 +115,9 @@
                         <div class="product-detail">
                             <div class="mastache1">
                                 <div class="product-shop-image">
-                                    <img src="img/product-gell3.png" class="img-fluid" alt="">
+                                    <img src="img/product-gell3.webp" class="img-fluid" alt="">
                                     <div class="addtocart">
-                                        <a href=""> <img src="img/cart.png" class="img-fluid" alt="">
+                                        <a href=""> <img src="img/cart.webp" class="img-fluid" alt="">
                                             <span> add to cart </span></a>
                                     </div>
                                 </div>
@@ -140,9 +140,9 @@
                         <div class="product-detail">
                             <div class="mastache1">
                                 <div class="product-shop-image">
-                                    <img src="img/product-gell1.png" class="img-fluid" alt="">
+                                    <img src="img/product-gell1.webp" class="img-fluid" alt="">
                                     <div class="addtocart">
-                                        <a href=""> <img src="img/cart.png" class="img-fluid" alt="">
+                                        <a href=""> <img src="img/cart.webp" class="img-fluid" alt="">
                                             <span> add to cart </span></a>
                                     </div>
                                 </div>
@@ -165,9 +165,9 @@
                         <div class="product-detail">
                             <div class="mastache1">
                                 <div class="product-shop-image">
-                                    <img src="img/product-gell1.png" class="img-fluid" alt="">
+                                    <img src="img/product-gell1.webp" class="img-fluid" alt="">
                                     <div class="addtocart">
-                                        <a href=""> <img src="img/cart.png" class="img-fluid" alt="">
+                                        <a href=""> <img src="img/cart.webp" class="img-fluid" alt="">
                                             <span> add to cart </span></a>
                                     </div>
                                 </div>
@@ -198,9 +198,9 @@
                         <div class="product-detail">
                             <div class="mastache1">
                                 <div class="product-shop-image">
-                                    <img src="img/product-gell2.png" class="img-fluid" alt="">
+                                    <img src="img/product-gell2.webp" class="img-fluid" alt="">
                                     <div class="addtocart">
-                                        <a href=""> <img src="img/cart.png" class="img-fluid" alt="">
+                                        <a href=""> <img src="img/cart.webp" class="img-fluid" alt="">
                                             <span> add to cart </span></a>
                                     </div>
                                 </div>
@@ -223,9 +223,9 @@
                         <div class="product-detail">
                             <div class="mastache1">
                                 <div class="product-shop-image">
-                                    <img src="img/product-gell3.png" class="img-fluid" alt="">
+                                    <img src="img/product-gell3.webp" class="img-fluid" alt="">
                                     <div class="addtocart">
-                                        <a href=""> <img src="img/cart.png" class="img-fluid" alt="">
+                                        <a href=""> <img src="img/cart.webp" class="img-fluid" alt="">
                                             <span> add to cart </span></a>
                                     </div>
                                 </div>
@@ -248,9 +248,9 @@
                         <div class="product-detail">
                             <div class="mastache1">
                                 <div class="product-shop-image">
-                                    <img src="img/product-gell2.png" class="img-fluid" alt="">
+                                    <img src="img/product-gell2.webp" class="img-fluid" alt="">
                                     <div class="addtocart">
-                                        <a href=""> <img src="img/cart.png" class="img-fluid" alt="">
+                                        <a href=""> <img src="img/cart.webp" class="img-fluid" alt="">
                                             <span> add to cart </span></a>
                                     </div>
                                 </div>
@@ -273,9 +273,9 @@
                         <div class="product-detail">
                             <div class="mastache1">
                                 <div class="product-shop-image">
-                                    <img src="img/product-gell3.png" class="img-fluid" alt="">
+                                    <img src="img/product-gell3.webp" class="img-fluid" alt="">
                                     <div class="addtocart">
-                                        <a href=""> <img src="img/cart.png" class="img-fluid" alt="">
+                                        <a href=""> <img src="img/cart.webp" class="img-fluid" alt="">
                                             <span> add to cart </span></a>
                                     </div>
                                 </div>
@@ -298,9 +298,9 @@
                         <div class="product-detail">
                             <div class="mastache1">
                                 <div class="product-shop-image">
-                                    <img src="img/product-gell.png" class="img-fluid" alt="">
+                                    <img src="img/product-gell.webp" class="img-fluid" alt="">
                                     <div class="addtocart">
-                                        <a href=""> <img src="img/cart.png" class="img-fluid" alt="">
+                                        <a href=""> <img src="img/cart.webp" class="img-fluid" alt="">
                                             <span> add to cart </span></a>
                                     </div>
                                 </div>
@@ -323,9 +323,9 @@
                         <div class="product-detail">
                             <div class="mastache1">
                                 <div class="product-shop-image">
-                                    <img src="img/product-gell3.png" class="img-fluid" alt="">
+                                    <img src="img/product-gell3.webp" class="img-fluid" alt="">
                                     <div class="addtocart">
-                                        <a href=""> <img src="img/cart.png" class="img-fluid" alt="">
+                                        <a href=""> <img src="img/cart.webp" class="img-fluid" alt="">
                                             <span> add to cart </span></a>
                                     </div>
                                 </div>

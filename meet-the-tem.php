@@ -9,13 +9,13 @@
 <!-- style css -->
 <section class="main-wrapper">
     <div class="banner-background">
-        <img src="img/background11.png" class="img-fluid" alt="">
+        <img src="img/background11.webp" class="img-fluid" alt="">
     </div>
     <div class="container">
         <div class="row">
             <div class="col-lg-5">
                 <div class="join-imag img-step con">
-                    <img src="img/meet-image.png" class="img-fluid" alt="">
+                    <img src="img/meet-image.webp" class="img-fluid" alt="">
                     <div class="btn-meet">
                         <a class="btn service red-me" href="">READ MORE</a>
                         <a class="btn service red-me-book" href="">BOOK AN APPOINTMENT</a>
@@ -27,7 +27,7 @@
             <div class="col-lg-5">
                 <div class="img-our-team-profile">
                     <div class="img-lines">
-                        <img src="img/footer-logo.png" class="img-fluid" alt="">
+                        <img src="img/footer-logo.webp" class="img-fluid" alt="">
                     </div>
                     <h4>VICTOR MADERA
                     </h4>
@@ -43,16 +43,16 @@
 </section>
 <section class="about-content-sec">
     <div class="profile-background">
-        <img src="img/blede2.png" class="img-fluid" alt="">
+        <img src="img/blede2.webp" class="img-fluid" alt="">
     </div>
     <div class="profile-background1">
-        <img src="img/background7.png" class="img-fluid" alt="">
+        <img src="img/background7.webp" class="img-fluid" alt="">
     </div>
     <div class="container">
         <div class="row">
             <div class="col-lg-5">
                 <div class="join-imag1 img-step con">
-                    <img src="img/meet-image1.png" class="img-fluid" alt="">
+                    <img src="img/meet-image1.webp" class="img-fluid" alt="">
                     <div class="btn-meet">
                         <a class="btn service red-me" href="">READ MORE</a>
                         <a class="btn service red-me-book" href="">BOOK AN APPOINTMENT</a>
@@ -62,7 +62,7 @@
                 </div>
                 <div class="img-our-team-profile reverse">
                     <div class="img-lines">
-                        <img src="img/footer-logo.png" class="img-fluid" alt="">
+                        <img src="img/footer-logo.webp" class="img-fluid" alt="">
                     </div>
                     <h4>JUAN GONZALES
                     </h4>
@@ -74,7 +74,7 @@
             </div>
             <div class="col-lg-5">
                 <div class="join-imag1 img-step con">
-                    <img src="img/meet-image2.png" class="img-fluid" alt="">
+                    <img src="img/meet-image2.webp" class="img-fluid" alt="">
                     <div class="btn-meet">
                         <a class="btn service red-me" href="">READ MORE</a>
                         <a class="btn service red-me-book" href="">BOOK AN APPOINTMENT</a>
@@ -84,7 +84,7 @@
                 </div>
                 <div class="img-our-team-profile reverse">
                     <div class="img-lines">
-                        <img src="img/footer-logo.png" class="img-fluid" alt="">
+                        <img src="img/footer-logo.webp" class="img-fluid" alt="">
                     </div>
                     <h4>JUAN GONZALES
                     </h4>
@@ -96,7 +96,7 @@
         <div class="row">
             <div class="col-lg-5">
                 <div class="join-imag1 img-step con">
-                    <img src="img/meet-image3.png" class="img-fluid" alt="">
+                    <img src="img/meet-image3.webp" class="img-fluid" alt="">
                     <div class="btn-meet">
                         <a class="btn service red-me" href="">READ MORE</a>
                         <a class="btn service red-me-book" href="">BOOK AN APPOINTMENT</a>
@@ -106,7 +106,7 @@
                 </div>
                 <div class="img-our-team-profile reverse">
                     <div class="img-lines">
-                        <img src="img/footer-logo.png" class="img-fluid" alt="">
+                        <img src="img/footer-logo.webp" class="img-fluid" alt="">
                     </div>
                     <h4>JUAN GONZALES
                     </h4>
@@ -118,7 +118,7 @@
             </div>
             <div class="col-lg-5">
                 <div class="join-imag1 img-step con">
-                    <img src="img/meet-image4.png" class="img-fluid" alt="">
+                    <img src="img/meet-image4.webp" class="img-fluid" alt="">
                     <div class="btn-meet">
                         <a class="btn service red-me" href="">READ MORE</a>
                         <a class="btn service red-me-book" href="">BOOK AN APPOINTMENT</a>
@@ -128,7 +128,7 @@
                 </div>
                 <div class="img-our-team-profile reverse">
                     <div class="img-lines">
-                        <img src="img/footer-logo.png" class="img-fluid" alt="">
+                        <img src="img/footer-logo.webp" class="img-fluid" alt="">
                     </div>
                     <h4>JUAN GONZALES
                     </h4>
@@ -143,13 +143,13 @@
 </section>
 <section class="main-wrapper margin-wrapper">
     <div class="banner-background">
-        <img src="img/background11.png" class="img-fluid" alt="">
+        <img src="img/background11.webp" class="img-fluid" alt="">
     </div>
     <div class="container">
         <div class="row">
             <div class="col-lg-5">
                 <div class="join-imag img-step con">
-                    <img src="img/meet-image.png" class="img-fluid" alt="">
+                    <img src="img/meet-image.webp" class="img-fluid" alt="">
                     <div class="btn-meet">
                         <a class="btn service red-me" href="">READ MORE</a>
                         <a class="btn service red-me-book" href="">BOOK AN APPOINTMENT</a>
@@ -161,7 +161,7 @@
             <div class="col-lg-5">
                 <div class="img-our-team-profile">
                     <div class="img-lines">
-                        <img src="img/footer-logo.png" class="img-fluid" alt="">
+                        <img src="img/footer-logo.webp" class="img-fluid" alt="">
                     </div>
                     <h4>VICTOR MADERA
                     </h4>
@@ -180,7 +180,7 @@
         <div class="row">
             <div class="col-lg-5">
                 <div class="join-imag1 img-step con">
-                    <img src="img/meet-image5.png" class="img-fluid" alt="">
+                    <img src="img/meet-image5.webp" class="img-fluid" alt="">
                     <div class="btn-meet">
                         <a class="btn service red-me" href="">READ MORE</a>
                         <a class="btn service red-me-book" href="">BOOK AN APPOINTMENT</a>
@@ -190,7 +190,7 @@
                 </div>
                 <div class="img-our-team-profile reverse">
                     <div class="img-lines">
-                        <img src="img/footer-logo.png" class="img-fluid" alt="">
+                        <img src="img/footer-logo.webp" class="img-fluid" alt="">
                     </div>
                     <h4>JUAN GONZALES
                     </h4>
@@ -202,7 +202,7 @@
             </div>
             <div class="col-lg-5">
                 <div class="join-imag1 img-step con">
-                    <img src="img/meet-image6.png" class="img-fluid" alt="">
+                    <img src="img/meet-image6.webp" class="img-fluid" alt="">
                     <div class="btn-meet">
                         <a class="btn service red-me" href="">READ MORE</a>
                         <a class="btn service red-me-book" href="">BOOK AN APPOINTMENT</a>
@@ -212,53 +212,7 @@
                 </div>
                 <div class="img-our-team-profile reverse">
                     <div class="img-lines">
-                        <img src="img/footer-logo.png" class="img-fluid" alt="">
-                    </div>
-                    <h4>JUAN GONZALES
-                    </h4>
-                    <h5>BARBER</h5>
-                    <h6>LOCATION: HOBOKEN, NJ</h6>
-                    <p>Eun in pharetra mauris mi pretium magnis nullam et consequat vel ina sit ut pharetra ultrices
-                        feugiat etol quam luctus in dictum placerat malesuada sollicitudin eu vel diam.</p>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-5">
-                <div class="join-imag1 img-step con">
-                    <img src="img/meet-image7.png" class="img-fluid" alt="">
-                    <div class="btn-meet">
-                        <a class="btn service red-me" href="">READ MORE</a>
-                        <a class="btn service red-me-book" href="">BOOK AN APPOINTMENT</a>
-                    </div>
-                    <div class="overlay con_1">
-                    </div>
-                </div>
-                <div class="img-our-team-profile reverse">
-                    <div class="img-lines">
-                        <img src="img/footer-logo.png" class="img-fluid" alt="">
-                    </div>
-                    <h4>JUAN GONZALES
-                    </h4>
-                    <h5>BARBER</h5>
-                    <h6>LOCATION: HOBOKEN, NJ</h6>
-                    <p>Eun in pharetra mauris mi pretium magnis nullam et consequat vel ina sit ut pharetra ultrices
-                        feugiat etol quam luctus in dictum placerat malesuada sollicitudin eu vel diam.</p>
-                </div>
-            </div>
-            <div class="col-lg-5">
-                <div class="join-imag1 img-step con">
-                    <img src="img/meet-image8.png" class="img-fluid" alt="">
-                    <div class="btn-meet">
-                        <a class="btn service red-me" href="">READ MORE</a>
-                        <a class="btn service red-me-book" href="">BOOK AN APPOINTMENT</a>
-                    </div>
-                    <div class="overlay con_1">
-                    </div>
-                </div>
-                <div class="img-our-team-profile reverse">
-                    <div class="img-lines">
-                        <img src="img/footer-logo.png" class="img-fluid" alt="">
+                        <img src="img/footer-logo.webp" class="img-fluid" alt="">
                     </div>
                     <h4>JUAN GONZALES
                     </h4>
@@ -272,7 +226,7 @@
         <div class="row">
             <div class="col-lg-5">
                 <div class="join-imag1 img-step con">
-                    <img src="img/meet-image9.png" class="img-fluid" alt="">
+                    <img src="img/meet-image7.webp" class="img-fluid" alt="">
                     <div class="btn-meet">
                         <a class="btn service red-me" href="">READ MORE</a>
                         <a class="btn service red-me-book" href="">BOOK AN APPOINTMENT</a>
@@ -282,7 +236,53 @@
                 </div>
                 <div class="img-our-team-profile reverse">
                     <div class="img-lines">
-                        <img src="img/footer-logo.png" class="img-fluid" alt="">
+                        <img src="img/footer-logo.webp" class="img-fluid" alt="">
+                    </div>
+                    <h4>JUAN GONZALES
+                    </h4>
+                    <h5>BARBER</h5>
+                    <h6>LOCATION: HOBOKEN, NJ</h6>
+                    <p>Eun in pharetra mauris mi pretium magnis nullam et consequat vel ina sit ut pharetra ultrices
+                        feugiat etol quam luctus in dictum placerat malesuada sollicitudin eu vel diam.</p>
+                </div>
+            </div>
+            <div class="col-lg-5">
+                <div class="join-imag1 img-step con">
+                    <img src="img/meet-image8.webp" class="img-fluid" alt="">
+                    <div class="btn-meet">
+                        <a class="btn service red-me" href="">READ MORE</a>
+                        <a class="btn service red-me-book" href="">BOOK AN APPOINTMENT</a>
+                    </div>
+                    <div class="overlay con_1">
+                    </div>
+                </div>
+                <div class="img-our-team-profile reverse">
+                    <div class="img-lines">
+                        <img src="img/footer-logo.webp" class="img-fluid" alt="">
+                    </div>
+                    <h4>JUAN GONZALES
+                    </h4>
+                    <h5>BARBER</h5>
+                    <h6>LOCATION: HOBOKEN, NJ</h6>
+                    <p>Eun in pharetra mauris mi pretium magnis nullam et consequat vel ina sit ut pharetra ultrices
+                        feugiat etol quam luctus in dictum placerat malesuada sollicitudin eu vel diam.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-5">
+                <div class="join-imag1 img-step con">
+                    <img src="img/meet-image9.webp" class="img-fluid" alt="">
+                    <div class="btn-meet">
+                        <a class="btn service red-me" href="">READ MORE</a>
+                        <a class="btn service red-me-book" href="">BOOK AN APPOINTMENT</a>
+                    </div>
+                    <div class="overlay con_1">
+                    </div>
+                </div>
+                <div class="img-our-team-profile reverse">
+                    <div class="img-lines">
+                        <img src="img/footer-logo.webp" class="img-fluid" alt="">
                     </div>
                     <h4>JUAN GONZALES
                     </h4>

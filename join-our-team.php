@@ -14,7 +14,7 @@
             <div class="col-lg-5">
                 <div class="img-our-service1">
                     <div class="img-lines wow animate__animated animate__fadeInDown animate__delay-0.3s">
-                        <img src="img/footer-logo.png" class="img-fluid" alt="">
+                        <img src="img/footer-logo.webp" class="img-fluid" alt="">
                     </div>
                     <h4 class="wow animate__animated animate__fadeInDown animate__delay-0.6s">JOIN OUR TEAM
                     </h4>
@@ -25,8 +25,8 @@
                 </div>
             </div>
             <div class="col-lg-6">
-                <div class="join-imag img-step con">
-                    <img src="img/join-our-image.png" class="img-fluid" alt="">
+                <div class="join-imag img-step con wow animate__animated animate__fadeInRight animate__delay-0.3s">
+                    <img src="img/join-our-image.webp" class="img-fluid" alt="">
                     <div class="overlay con_1">
                     </div>
                 </div>
@@ -39,14 +39,14 @@
         <div class="row">
             <div class="col-lg-8 mx-auto">
                 <div class="join-us-para">
-                    <p>Lions Den is a no-nonsense fast-paced environment. But most importantly, we embrace a team and
+                    <p class="wow animate__animated animate__fadeInDown animate__delay-0.3s">Lions Den is a no-nonsense fast-paced environment. But most importantly, we embrace a team and
                         family mentality that we feel is lacking in the barbering industry.We’d like to hear from you if
                         you think you have what it takes to join our dynamic and diverse team. We’re constantly
                         searching for enthusiastic barbers and grooming specialists.
                     </p>
-                    <h5>INTERESTED?
+                    <h5 class="wow animate__animated animate__fadeInDown animate__delay-0.6s">INTERESTED?
                     </h5>
-                    <p>Simply send us your details and a little bit about you and your experience and we’ll get back to
+                    <p class="wow animate__animated animate__fadeInDown animate__delay-0.9s">Simply send us your details and a little bit about you and your experience and we’ll get back to
                         you even if you’re not successful this time.Please note, we are dealing with a high number of
                         applicants at this time. We look forward to hearing from you,</p>
                 </div>

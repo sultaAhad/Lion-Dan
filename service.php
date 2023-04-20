@@ -13,7 +13,7 @@
             <div class="col-lg-7 mx-auto text-center">
                 <div class="img-our-service">
                     <div class="img-lines  wow animate__animated animate__fadeInDown animate__delay-0.3s">
-                        <img src="img/footer-logo.png" class="img-fluid" alt="">
+                        <img src="img/footer-logo.webp" class="img-fluid" alt="">
                     </div>
                     <h4 class=" wow animate__animated animate__fadeInDown animate__delay-0.6s">OUR SERVICES</h4>
                     <p class=" wow animate__animated animate__fadeInDown animate__delay-0.9s">Lions Den is an exclusive
@@ -47,8 +47,7 @@
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <div
-                            class="mans-wrapper golden-border wow animate__animated animate__fadeInRight animate__delay-0.3s">
+                        <div class="mans-wrapper golden-border wow animate__animated animate__fadeInRight animate__delay-0.3s">
                             <h6 class="fovirate">member foverite!</h6>
                             <h5> haircut and beard line up</h5>
                             <h6>$50.00</h6>

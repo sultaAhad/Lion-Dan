@@ -16,7 +16,7 @@
                     <h4 class="main-blogs">HOW TO KEEP YOUR RAZORS
                         SHARP AS BRAND NEW
                     </h4>
-                    <img src="img/blog-post1.png" class="img-fluid" alt="">
+                    <img src="img/blog-post1.webp" class="img-fluid" alt="">
                 </div>
             </div>
         </div>
@@ -43,7 +43,7 @@
                         fugiat maiores in incidunt rem. Dolorum architecto debitis quibusdam nisi autem, porro atque
                         aliquid?
                     </p>
-                    <img src="img/bloag-post.png" class="img-fluid" alt="">
+                    <img src="img/bloag-post.webp" class="img-fluid" alt="">
                     <h3>KEEP THEM ALWAYS CLEAN
                     </h3>
                     <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque quia corrupti cum. Odit,
@@ -72,7 +72,7 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="img-wrapper-blogs">
-                    <img src="img/blogs.png" class="img-fluid" alt="">
+                    <img src="img/blogs.webp" class="img-fluid" alt="">
                     <div class="tips-heading">
                         <h6>TIPS -- MAR 24,2023</h6>
                         <h4>HOW TO KEEP YOUR RAZORS SHARP AS BRAND NEW</h4>
@@ -82,7 +82,7 @@
             </div>
             <div class="col-lg-6">
                 <div class="img-wrapper-blogs">
-                    <img src="img/blogs.png" class="img-fluid" alt="">
+                    <img src="img/blogs.webp" class="img-fluid" alt="">
                     <div class="tips-heading">
                         <h6>TIPS -- MAR 24,2023</h6>
                         <h4>HOW TO KEEP YOUR RAZORS SHARP AS BRAND NEW</h4>

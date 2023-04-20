@@ -24,13 +24,12 @@
                  <div class="navbar-logo-wrapper">
                      <div class="web-logo">
                          <a class="navbar-brand" href="index.php">
-                             <img src="img/main-header-logo.png" alt="" class="img-fluid">
+                             <img src="img/main-header-logo.webp" alt="" class="img-fluid">
                          </a>
                      </div>
                      <div class="content nav-container">
                          <label for="menu-button">
-                             <input class="checkbox menu-button" type="checkbox" name="" id="menu-button"
-                                 style="mix-blend-mode: exclusion" />
+                             <input class="checkbox menu-button" type="checkbox" name="" id="menu-button" style="mix-blend-mode: exclusion" />
                              <div class="hamburger-lines">
                                  <span class="line line1"></span>
                                  <span class="line line2"></span>
@@ -51,7 +50,7 @@
          <nav class="navbar navbar-expand-lg navbar-light ">
              <div class="web-logo">
                  <a class="navbar-brand" href="index.php">
-                     <img src="img/main-header-logo.png" alt="" class="img-fluid">
+                     <img src="img/main-header-logo.webp" alt="" class="img-fluid">
                  </a>
              </div>
              <div class="header-main">

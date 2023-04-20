@@ -12,9 +12,9 @@
         <div class="row">
             <div class="col-lg-6">
                 <div class="img-srapper-product">
-                    <img src="img/product2.png" class="img-fluid" alt="">
+                    <img src="img/product2.webp" class="img-fluid" alt="">
                     <div class="logo-product">
-                        <img src="img/product.png" class="img-fluid" alt="">
+                        <img src="img/product.webp" class="img-fluid" alt="">
                         <h4>LIONS DEN SIGNATURE LINE</h4>
                     </div>
                 </div>
@@ -89,16 +89,13 @@
                                     <div class="col-lg-10 mx-auto">
                                         <div class="accordion-item faq-card">
                                             <h2 class="accordion-header" id="headingOne">
-                                                <button class="accordion-button collapsed " type="button"
-                                                    data-bs-toggle="collapse" data-bs-target="#collapseOne"
-                                                    aria-expanded="false" aria-controls="collapseOne">
+                                                <button class="accordion-button collapsed " type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
                                                     <div class="faq1">
                                                         Why You'll Love It?
                                                     </div>
                                                 </button>
                                             </h2>
-                                            <div id="collapseOne" class="accordion-collapse collapse "
-                                                aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                            <div id="collapseOne" class="accordion-collapse collapse " aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                     <ul>
                                                         <li><i class="fa fa-circle" aria-hidden="true"></i>
@@ -138,16 +135,13 @@
                                         </div>
                                         <div class="accordion-item faq-card">
                                             <h2 class="accordion-header" id="headingTwo">
-                                                <button class="accordion-button collapsed" type="button"
-                                                    data-bs-toggle="collapse" data-bs-target="#collapseTwo"
-                                                    aria-expanded="false" aria-controls="collapseTwo">
+                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                                     <div class="faq1">
                                                         How to use
                                                     </div>
                                                 </button>
                                             </h2>
-                                            <div id="collapseTwo" class="accordion-collapse collapse"
-                                                aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore,
                                                         consequuntur
@@ -165,16 +159,13 @@
                                         </div>
                                         <div class="accordion-item faq-card">
                                             <h2 class="accordion-header" id="headingThree">
-                                                <button class="accordion-button collapsed" type="button"
-                                                    data-bs-toggle="collapse" data-bs-target="#collapseThree"
-                                                    aria-expanded="false" aria-controls="collapseThree">
+                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                                     <div class="faq1">
                                                         Our Science
                                                     </div>
                                                 </button>
                                             </h2>
-                                            <div id="collapseThree" class="accordion-collapse collapse"
-                                                aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                     <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit.
                                                         Labore,
@@ -193,16 +184,13 @@
                                         </div>
                                         <div class="accordion-item faq-card">
                                             <h2 class="accordion-header" id="headingfour">
-                                                <button class="accordion-button collapsed" type="button"
-                                                    data-bs-toggle="collapse" data-bs-target="#collapsefour"
-                                                    aria-expanded="false" aria-controls="collapsefour">
+                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsefour" aria-expanded="false" aria-controls="collapsefour">
                                                     <div class="faq1">
                                                         Ingredients
                                                     </div>
                                                 </button>
                                             </h2>
-                                            <div id="collapsefour" class="accordion-collapse collapse"
-                                                aria-labelledby="headingfour" data-bs-parent="#accordionExample">
+                                            <div id="collapsefour" class="accordion-collapse collapse" aria-labelledby="headingfour" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                     <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.
                                                         Doloribus
@@ -219,16 +207,13 @@
                                         </div>
                                         <div class="accordion-item faq-card">
                                             <h2 class="accordion-header" id="headingfour">
-                                                <button class="accordion-button collapsed" type="button"
-                                                    data-bs-toggle="collapse" data-bs-target="#collapsefive"
-                                                    aria-expanded="false" aria-controls="collapsefive">
+                                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapsefive" aria-expanded="false" aria-controls="collapsefive">
                                                     <div class="faq1">
                                                         Rating & Reviews
                                                     </div>
                                                 </button>
                                             </h2>
-                                            <div id="collapsefive" class="accordion-collapse collapse"
-                                                aria-labelledby="headingfive" data-bs-parent="#accordionExample">
+                                            <div id="collapsefive" class="accordion-collapse collapse" aria-labelledby="headingfive" data-bs-parent="#accordionExample">
                                                 <div class="accordion-body">
                                                     <p> Lorem ipsum dolor sit amet consectetur adipisicing elit.
                                                         Doloribus
@@ -265,49 +250,49 @@
                     <div class="slider-gell">
                         <div class="product-detail">
                             <div class="mastache1">
-                                <img src="img/product-gell.png" class="img-fluid" alt="">
+                                <img src="img/product-gell.webp" class="img-fluid" alt="">
                             </div>
                             <h4>Bread & mustache care oil</h4>
                             <h5>$25.00</h5>
                         </div>
                         <div class="product-detail">
                             <div class="mastache1">
-                                <img src="img/product-gell1.png" class="img-fluid" alt="">
+                                <img src="img/product-gell1.webp" class="img-fluid" alt="">
                             </div>
                             <h4>Bread & mustache care oil</h4>
                             <h5>$25.00</h5>
                         </div>
                         <div class="product-detail">
                             <div class="mastache1">
-                                <img src="img/product-gell2.png" class="img-fluid" alt="">
+                                <img src="img/product-gell2.webp" class="img-fluid" alt="">
                             </div>
                             <h4>Bread & mustache care oil</h4>
                             <h5>$25.00</h5>
                         </div>
                         <div class="product-detail">
                             <div class="mastache1">
-                                <img src="img/product-gell3.png" class="img-fluid" alt="">
+                                <img src="img/product-gell3.webp" class="img-fluid" alt="">
                             </div>
                             <h4>Bread & mustache care oil</h4>
                             <h5>$25.00</h5>
                         </div>
                         <div class="product-detail">
                             <div class="mastache1">
-                                <img src="img/product-gell.png" class="img-fluid" alt="">
+                                <img src="img/product-gell.webp" class="img-fluid" alt="">
                             </div>
                             <h4>Bread & mustache care oil</h4>
                             <h5>$25.00</h5>
                         </div>
                         <div class="product-detail">
                             <div class="mastache1">
-                                <img src="img/product-gell1.png" class="img-fluid" alt="">
+                                <img src="img/product-gell1.webp" class="img-fluid" alt="">
                             </div>
                             <h4>Bread & mustache care oil</h4>
                             <h5>$25.00</h5>
                         </div>
                         <div class="product-detail">
                             <div class="mastache1">
-                                <img src="img/product-gell2.png" class="img-fluid" alt="">
+                                <img src="img/product-gell2.webp" class="img-fluid" alt="">
                             </div>
                             <h4>Bread & mustache care oil</h4>
                             <h5>$25.00</h5>

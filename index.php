@@ -12,10 +12,10 @@
             <!-- Item -->
             <div class="item">
                 <div class="img-fill">
-                    <img src="img/banner1.png" class="img-fluid" alt="">
+                    <img src="img/banner1.webp" class="img-fluid" alt="">
                     <div class="info">
                         <div>
-                            <h5><img src="img/bannerLogo.png" class="img-fluid" alt=""></h5>
+                            <h5><img src="img/bannerLogo.webp" class="img-fluid" alt=""></h5>
                             <h3>The Unique Barber <br> Experience</h3>
                             <a class="btn" href="">BOOK APPOINTMENT</a>
                         </div>
@@ -26,10 +26,10 @@
             <!-- Item -->
             <div class="item">
                 <div class="img-fill">
-                    <img src="img/banner2.png" class="img-fluid" alt="">
+                    <img src="img/banner2.webp" class="img-fluid" alt="">
                     <div class="info">
                         <div>
-                            <h5><img src="img/bannerLogo.png" class="img-fluid" alt=""></h5>
+                            <h5><img src="img/bannerLogo.webp" class="img-fluid" alt=""></h5>
                             <h3>The Unique Barber <br> Experience</h3>
                             <a class="btn" href="">BOOK APPOINTMENT</a>
                         </div>
@@ -40,10 +40,10 @@
             <!-- Item -->
             <div class="item">
                 <div class="img-fill">
-                    <img src="img/banner1.png" class="img-fluid" alt="">
+                    <img src="img/banner1.webp" class="img-fluid" alt="">
                     <div class="info">
                         <div>
-                            <h5><img src="img/bannerLogo.png" class="img-fluid" alt=""></h5>
+                            <h5><img src="img/bannerLogo.webp" class="img-fluid" alt=""></h5>
                             <h3>The Unique Barber <br> Experience</h3>
                             <a class="btn" href="">BOOK APPOINTMENT</a>
                         </div>
@@ -54,10 +54,10 @@
             <!-- Item -->
             <div class="item">
                 <div class="img-fill">
-                    <img src="img/banner2.png" class="img-fluid" alt="">
+                    <img src="img/banner2.webp" class="img-fluid" alt="">
                     <div class="info">
                         <div>
-                            <h5><img src="img/bannerLogo.png" class="img-fluid" alt=""></h5>
+                            <h5><img src="img/bannerLogo.webp" class="img-fluid" alt=""></h5>
                             <h3>The Unique Barber <br> Experience</h3>
                             <a class="btn" href="">BOOK APPOINTMENT</a>
                         </div>
@@ -72,13 +72,13 @@
 <!-- category-sec start here -->
 <section class="step-back">
     <div class="background-img">
-        <img src="img/background3.png" class="img-fluid" alt="">
+        <img src="img/background3.webp" class="img-fluid" alt="">
     </div>
     <div class="container">
         <div class="row">
             <div class="col-lg-4">
                 <div class="img-step con wow animate__animated animate__fadeInleft">
-                    <img src="img/lion4.png" class="img-fluid" alt="">
+                    <img src="img/lion4.webp" class="img-fluid" alt="">
                     <div class="overlay con_1">
                     </div>
                 </div>
@@ -87,7 +87,7 @@
                 <div class="step-heading">
                     <div class="row">
                         <div class="col-lg-12">
-                            <img src="img/step-img.png" class="img-fluid wow animate__animated animate__fadeInDown "
+                            <img src="img/step-img.webp" class="img-fluid wow animate__animated animate__fadeInDown "
                                 alt="">
                             <h2 class="wow animate__animated animate__fadeInDown animate__delay-1s  ">step back in
                                 time
@@ -110,17 +110,17 @@
 <!-- category-sec end here -->
 <section class="our-services">
     <div class="our-background">
-        <img src="img/background1.png" class="img-fluid" alt="">
+        <img src="img/background1.webp" class="img-fluid" alt="">
     </div>
     <div class="our-background1">
-        <img src="img/background2.png" class="img-fluid" alt="">
+        <img src="img/background2.webp" class="img-fluid" alt="">
     </div>
     <div class="container">
         <div class="row">
             <div class="col-lg-7 mx-auto text-center">
                 <div class="img-our-service">
                     <div class="img-lines">
-                        <img src="img/footer-logo.png" class="img-fluid wow animate__animated animate__fadeInDown "
+                        <img src="img/footer-logo.webp" class="img-fluid wow animate__animated animate__fadeInDown "
                             alt="">
                     </div>
                     <h4 class="wow animate__animated animate__fadeInDown animate__delay-1s ">Browse our service</h4>
@@ -188,10 +188,10 @@
 </section>
 <section class="we-offer">
     <div class="our-backgroun3">
-        <img src="img/background4.png" class="img-fluid" alt="">
+        <img src="img/background4.webp" class="img-fluid" alt="">
     </div>
     <div class="our-background4">
-        <img src="img/background5.png" class="img-fluid" alt="">
+        <img src="img/background5.webp" class="img-fluid" alt="">
     </div>
     <div class="container">
         <div class="row">
@@ -214,7 +214,7 @@
                     <div class="row mt-5">
                         <div class="col-lg-4">
                             <div class="img-step con  wow animate__animated animate__fadeInleft">
-                                <img src="img/lion6.png" class="img-fluid" alt="">
+                                <img src="img/lion6.webp" class="img-fluid" alt="">
                                 <div class="overlay con_1">
                                 </div>
                             </div>
@@ -222,14 +222,14 @@
                         <div class="col-lg-4">
                             <div class="book-img-wrapper  wow animate__animated animate__fadeInDown  ">
                                 <div class="img-step con">
-                                    <img src="img/lion13.png" class="img-fluid" alt="">
+                                    <img src="img/lion13.webp" class="img-fluid" alt="">
                                     <div class="overlay con_1">
                                     </div>
                                 </div>
                             </div>
                             <div class="book-img-wrapper1  wow animate__animated animate__fadeInup  ">
                                 <div class="img-step con">
-                                    <img src="img/lion10.png" class="img-fluid" alt="">
+                                    <img src="img/lion10.webp" class="img-fluid" alt="">
                                     <div class="overlay con_1">
                                     </div>
                                 </div>
@@ -237,7 +237,7 @@
                         </div>
                         <div class="col-lg-4">
                             <div class="img-step con  wow animate__animated animate__fadeInright ">
-                                <img src="img/lion7.png" class="img-fluid" alt="">
+                                <img src="img/lion7.webp" class="img-fluid" alt="">
                                 <div class="overlay con_1">
                                 </div>
                             </div>
@@ -271,7 +271,7 @@
 </section>
 <section class="why-choose">
     <div class="our-backgroun7">
-        <img src="img/background6.png" class="img-fluid" alt="">
+        <img src="img/background6.webp" class="img-fluid" alt="">
     </div>
     <div class="container">
         <div class="row">
@@ -285,7 +285,7 @@
                 </div>
                 <div class="top-bubbles ">
                     <ul class="wow animate__animated animate__fadeInDown animate__delay-2s">
-                        <li><img src="img/hairstyle.png" class="img-fluid" alt="">
+                        <li><img src="img/hairstyle.webp" class="img-fluid" alt="">
                             <div class="top-banner">
                                 <h5>top banners</h5>
                                 <p> Our team of expert barbers takes great pride in their craft, and we use only Lions
@@ -293,7 +293,7 @@
                                 </p>
                             </div>
                         </li>
-                        <li><img src="img/barber-chair.png" class="img-fluid" alt="">
+                        <li><img src="img/barber-chair.webp" class="img-fluid" alt="">
                             <div class="top-banner">
                                 <h5>premium services</h5>
                                 <p> At our high-end barbershop, we believe that every client deserves exceptional
@@ -313,12 +313,12 @@
             <div class="col-lg-6">
                 <div class="dbl-img">
                     <div class="premium-wrapper-img img-step wow animate__animated animate__fadeInup">
-                        <img src="img/lion15.png" class="img-fluid" alt="">
+                        <img src="img/lion15.webp" class="img-fluid" alt="">
                         <div class="overlay con_1">
                         </div>
                     </div>
                     <div class="premium-wrapper-img1 img-step wow animate__animated animate__fadeInright">
-                        <img src="img/lion18.png" class="img-fluid" alt="">
+                        <img src="img/lion18.webp" class="img-fluid" alt="">
                         <div class="overlay con_1">
                         </div>
                     </div>
@@ -329,14 +329,14 @@
 </section>
 <section class="our-services">
     <div class="our-backgroun10">
-        <img src="img/background7.png" class="img-fluid" alt="">
+        <img src="img/background7.webp" class="img-fluid" alt="">
     </div>
     <div class="container">
         <div class="row">
             <div class="col-lg-7 mx-auto text-center">
                 <div class="img-our-service">
                     <div class="img-lines">
-                        <img src="img/footer-logo.png" class="img-fluid wow animate__animated animate__fadeInDown "
+                        <img src="img/footer-logo.webp" class="img-fluid wow animate__animated animate__fadeInDown "
                             alt="">
                     </div>
                     <h4 class="wow animate__animated animate__fadeInDown animate__delay-1s">Browse our products</h4>
@@ -355,49 +355,49 @@
                     <div class="slider-gell1">
                         <div class="product-detail">
                             <div class="mastache">
-                                <img src="img/gell1.png" class="img-fluid" alt="">
+                                <img src="img/gell1.webp" class="img-fluid" alt="">
                             </div>
                             <h4>Bread & mustache care oil</h4>
                             <h5>$25.00</h5>
                         </div>
                         <div class="product-detail">
                             <div class="mastache">
-                                <img src="img/gell2.png" class="img-fluid" alt="">
+                                <img src="img/gell2.webp" class="img-fluid" alt="">
                             </div>
                             <h4>Bread & mustache care oil</h4>
                             <h5>$25.00</h5>
                         </div>
                         <div class="product-detail">
                             <div class="mastache">
-                                <img src="img/gell3.png" class="img-fluid" alt="">
+                                <img src="img/gell3.webp" class="img-fluid" alt="">
                             </div>
                             <h4>Bread & mustache care oil</h4>
                             <h5>$25.00</h5>
                         </div>
                         <div class="product-detail">
                             <div class="mastache">
-                                <img src="img/gell4.png" class="img-fluid" alt="">
+                                <img src="img/gell4.webp" class="img-fluid" alt="">
                             </div>
                             <h4>Bread & mustache care oil</h4>
                             <h5>$25.00</h5>
                         </div>
                         <div class="product-detail">
                             <div class="mastache">
-                                <img src="img/gell4.png" class="img-fluid" alt="">
+                                <img src="img/gell4.webp" class="img-fluid" alt="">
                             </div>
                             <h4>Bread & mustache care oil</h4>
                             <h5>$25.00</h5>
                         </div>
                         <div class="product-detail">
                             <div class="mastache">
-                                <img src="img/gell4.png" class="img-fluid" alt="">
+                                <img src="img/gell4.webp" class="img-fluid" alt="">
                             </div>
                             <h4>Bread & mustache care oil</h4>
                             <h5>$25.00</h5>
                         </div>
                         <div class="product-detail">
                             <div class="mastache">
-                                <img src="img/gell4.png" class="img-fluid" alt="">
+                                <img src="img/gell4.webp" class="img-fluid" alt="">
                             </div>
                             <h4>Bread & mustache care oil</h4>
                             <h5>$25.00</h5>
@@ -418,7 +418,7 @@
 </section>
 <section class="we-offer client slider">
     <div class="background-footer8">
-        <img src="img/background8.png" class="img-fluid" alt="">
+        <img src="img/background8.webp" class="img-fluid" alt="">
     </div>
     <div class="container-fluid p-0">
         <div class="row">
@@ -430,7 +430,7 @@
                             <div class="row mb-3 align-items-center">
                                 <div class="col-lg-9">
                                     <div class="heading-offer google-reviews wow animate__animated animate__fadeInleft">
-                                        <img src="img/footer-logo.png" class="img-fluid" alt="">
+                                        <img src="img/footer-logo.webp" class="img-fluid" alt="">
                                         <h2>WHAT OUR CLIENTS SAY</h2>
                                         <p> With 450+ Google Reviews (and counting), we know that our customers are
                                             happy. See what they said about our professional barbers. </p>
@@ -444,7 +444,7 @@
                     <div class="bread-man">
                         <div class="row">
                             <div class="col-lg-2 p-0">
-                                <img src="img/bread.png" class="img-fluid" alt="">
+                                <img src="img/bread.webp" class="img-fluid" alt="">
                             </div>
                             <div class="col-lg-10">
                                 <ul class="bread-wrapper-content">
@@ -470,7 +470,7 @@
                     <div class="bread-man">
                         <div class="row">
                             <div class="col-lg-2 p-0">
-                                <img src="img/bread.png" class="img-fluid" alt="">
+                                <img src="img/bread.webp" class="img-fluid" alt="">
                             </div>
                             <div class="col-lg-10">
                                 <ul class="bread-wrapper-content">
@@ -496,7 +496,7 @@
                     <div class="bread-man">
                         <div class="row">
                             <div class="col-lg-2 p-0">
-                                <img src="img/bread.png" class="img-fluid" alt="">
+                                <img src="img/bread.webp" class="img-fluid" alt="">
                             </div>
                             <div class="col-lg-10">
                                 <ul class="bread-wrapper-content">
@@ -522,7 +522,7 @@
                     <div class="bread-man">
                         <div class="row">
                             <div class="col-lg-2 p-0">
-                                <img src="img/bread.png" class="img-fluid" alt="">
+                                <img src="img/bread.webp" class="img-fluid" alt="">
                             </div>
                             <div class="col-lg-10">
                                 <ul class="bread-wrapper-content">

@@ -13,7 +13,7 @@
             <div class="col-lg-7 mx-auto text-center">
                 <div class="img-our-service">
                     <div class="img-lines wow animate__animated animate__fadeInDown animate__delay-0.3s">
-                        <img src="img/footer-logo.png" class="img-fluid" alt="">
+                        <img src="img/footer-logo.webp" class="img-fluid" alt="">
                     </div>
                     <h4 class="wow animate__animated animate__fadeInDown animate__delay-0.6s">EVENTS
                     </h4>
@@ -27,14 +27,14 @@
 </section>
 <section class="event-sec">
     <div class="container">
-        <div class="top-events-wrapper">
+        <div class="top-events-wrapper wow animate__animated animate__fadeInLeft animate__delay-1s">
             <div class="row">
                 <div class="col-lg-1"></div>
                 <div class="col-lg-10">
                     <div class="row">
                         <div class="col-lg-8">
                             <div class="events-wrapper img-step con ">
-                                <img src="img/event1.png" class="img-fluid" alt="">
+                                <img src="img/event1.webp" class="img-fluid" alt="">
                                 <div class="overlay con_1">
                                 </div>
                             </div>
@@ -63,7 +63,7 @@
                 <div class="col-lg-1"></div>
             </div>
         </div>
-        <div class="top-events-wrapper1">
+        <div class="top-events-wrapper1 wow animate__animated animate__fadeInRight animate__delay-0.9s">
             <div class="row">
                 <div class="col-lg-1"></div>
                 <div class="col-lg-10">
@@ -89,7 +89,7 @@
                         </div>
                         <div class="col-lg-8 events-wrapper-order1">
                             <div class="events-wrapper img-step con">
-                                <img src="img/event.png" class="img-fluid" alt="">
+                                <img src="img/event.webp" class="img-fluid" alt="">
                                 <div class="overlay con_1">
                                 </div>
                             </div>

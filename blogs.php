@@ -18,7 +18,7 @@
                     <div class="row">
                         <div class="col-lg-6">
                             <div class="img-wrapper-blogs">
-                                <img src="img/blogs.png" class="img-fluid" alt="">
+                                <img src="img/blogs.webp" class="img-fluid" alt="">
                                 <div class="tips-heading">
                                     <h6>TIPS -- MAR 24,2023</h6>
                                     <h4>HOW TO KEEP YOUR RAZORS SHARP AS BRAND NEW</h4>
@@ -75,7 +75,7 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="img-wrapper-blogs">
-                                    <img src="img/blogs.png" class="img-fluid" alt="">
+                                    <img src="img/blogs.webp" class="img-fluid" alt="">
                                     <div class="tips-heading">
                                         <h6>TIPS -- MAR 24,2023</h6>
                                         <h4>HOW TO KEEP YOUR RAZORS SHARP AS BRAND NEW</h4>
@@ -85,7 +85,7 @@
                             </div>
                             <div class="col-lg-6 mt-5 marginzero">
                                 <div class="img-wrapper-blogs">
-                                    <img src="img/blogs.png" class="img-fluid" alt="">
+                                    <img src="img/blogs.webp" class="img-fluid" alt="">
                                     <div class="tips-heading">
                                         <h6>TIPS -- MAR 24,2023</h6>
                                         <h4>HOW TO KEEP YOUR RAZORS SHARP AS BRAND NEW</h4>
@@ -97,7 +97,7 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="img-wrapper-blogs">
-                                    <img src="img/blogs.png" class="img-fluid" alt="">
+                                    <img src="img/blogs.webp" class="img-fluid" alt="">
                                     <div class="tips-heading">
                                         <h6>TIPS -- MAR 24,2023</h6>
                                         <h4>HOW TO KEEP YOUR RAZORS SHARP AS BRAND NEW</h4>
@@ -107,7 +107,7 @@
                             </div>
                             <div class="col-lg-6 mt-5 marginzero">
                                 <div class="img-wrapper-blogs">
-                                    <img src="img/blogs.png" class="img-fluid" alt="">
+                                    <img src="img/blogs.webp" class="img-fluid" alt="">
                                     <div class="tips-heading">
                                         <h6>TIPS -- MAR 24,2023</h6>
                                         <h4>HOW TO KEEP YOUR RAZORS SHARP AS BRAND NEW</h4>
@@ -123,7 +123,7 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="img-wrapper-blogs">
-                                    <img src="img/blogs.png" class="img-fluid" alt="">
+                                    <img src="img/blogs.webp" class="img-fluid" alt="">
                                     <div class="tips-heading">
                                         <h6>TIPS -- MAR 24,2023</h6>
                                         <h4>HOW TO KEEP YOUR RAZORS SHARP AS BRAND NEW</h4>
@@ -133,7 +133,7 @@
                             </div>
                             <div class="col-lg-6 mt-5 marginzero">
                                 <div class="img-wrapper-blogs">
-                                    <img src="img/blogs.png" class="img-fluid" alt="">
+                                    <img src="img/blogs.webp" class="img-fluid" alt="">
                                     <div class="tips-heading">
                                         <h6>TIPS -- MAR 24,2023</h6>
                                         <h4>HOW TO KEEP YOUR RAZORS SHARP AS BRAND NEW</h4>
@@ -145,7 +145,7 @@
                         <div class="row">
                             <div class="col-lg-6 ">
                                 <div class="img-wrapper-blogs">
-                                    <img src="img/blogs.png" class="img-fluid" alt="">
+                                    <img src="img/blogs.webp" class="img-fluid" alt="">
                                     <div class="tips-heading">
                                         <h6>TIPS -- MAR 24,2023</h6>
                                         <h4>HOW TO KEEP YOUR RAZORS SHARP AS BRAND NEW</h4>
@@ -155,7 +155,7 @@
                             </div>
                             <div class="col-lg-6 mt-5 marginzero">
                                 <div class="img-wrapper-blogs">
-                                    <img src="img/blogs.png" class="img-fluid" alt="">
+                                    <img src="img/blogs.webp" class="img-fluid" alt="">
                                     <div class="tips-heading">
                                         <h6>TIPS -- MAR 24,2023</h6>
                                         <h4>HOW TO KEEP YOUR RAZORS SHARP AS BRAND NEW</h4>
@@ -172,7 +172,7 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="img-wrapper-blogs">
-                                    <img src="img/blogs.png" class="img-fluid" alt="">
+                                    <img src="img/blogs.webp" class="img-fluid" alt="">
                                     <div class="tips-heading">
                                         <h6>TIPS -- MAR 24,2023</h6>
                                         <h4>HOW TO KEEP YOUR RAZORS SHARP AS BRAND NEW</h4>
@@ -182,7 +182,7 @@
                             </div>
                             <div class="col-lg-6 mt-5 marginzero">
                                 <div class="img-wrapper-blogs">
-                                    <img src="img/blogs.png" class="img-fluid" alt="">
+                                    <img src="img/blogs.webp" class="img-fluid" alt="">
                                     <div class="tips-heading">
                                         <h6>TIPS -- MAR 24,2023</h6>
                                         <h4>HOW TO KEEP YOUR RAZORS SHARP AS BRAND NEW</h4>
@@ -194,7 +194,7 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="img-wrapper-blogs">
-                                    <img src="img/blogs.png" class="img-fluid" alt="">
+                                    <img src="img/blogs.webp" class="img-fluid" alt="">
                                     <div class="tips-heading">
                                         <h6>TIPS -- MAR 24,2023</h6>
                                         <h4>HOW TO KEEP YOUR RAZORS SHARP AS BRAND NEW</h4>
@@ -204,7 +204,7 @@
                             </div>
                             <div class="col-lg-6 mt-5 marginzero">
                                 <div class="img-wrapper-blogs">
-                                    <img src="img/blogs.png" class="img-fluid" alt="">
+                                    <img src="img/blogs.webp" class="img-fluid" alt="">
                                     <div class="tips-heading">
                                         <h6>TIPS -- MAR 24,2023</h6>
                                         <h4>HOW TO KEEP YOUR RAZORS SHARP AS BRAND NEW</h4>
@@ -221,7 +221,7 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="img-wrapper-blogs">
-                                    <img src="img/blogs.png" class="img-fluid" alt="">
+                                    <img src="img/blogs.webp" class="img-fluid" alt="">
                                     <div class="tips-heading">
                                         <h6>TIPS -- MAR 24,2023</h6>
                                         <h4>HOW TO KEEP YOUR RAZORS SHARP AS BRAND NEW</h4>
@@ -231,7 +231,7 @@
                             </div>
                             <div class="col-lg-6 mt-5 marginzero">
                                 <div class="img-wrapper-blogs">
-                                    <img src="img/blogs.png" class="img-fluid" alt="">
+                                    <img src="img/blogs.webp" class="img-fluid" alt="">
                                     <div class="tips-heading">
                                         <h6>TIPS -- MAR 24,2023</h6>
                                         <h4>HOW TO KEEP YOUR RAZORS SHARP AS BRAND NEW</h4>
@@ -243,7 +243,7 @@
                         <div class="row">
                             <div class="col-lg-6">
                                 <div class="img-wrapper-blogs">
-                                    <img src="img/blogs.png" class="img-fluid" alt="">
+                                    <img src="img/blogs.webp" class="img-fluid" alt="">
                                     <div class="tips-heading">
                                         <h6>TIPS -- MAR 24,2023</h6>
                                         <h4>HOW TO KEEP YOUR RAZORS SHARP AS BRAND NEW</h4>
@@ -253,7 +253,7 @@
                             </div>
                             <div class="col-lg-6 mt-5 marginzero">
                                 <div class="img-wrapper-blogs">
-                                    <img src="img/blogs.png" class="img-fluid" alt="">
+                                    <img src="img/blogs.webp" class="img-fluid" alt="">
                                     <div class="tips-heading">
                                         <h6>TIPS -- MAR 24,2023</h6>
                                         <h4>HOW TO KEEP YOUR RAZORS SHARP AS BRAND NEW</h4>

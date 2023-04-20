@@ -22,8 +22,7 @@
                             purus et mi tempus semper id vel prci eu magna in senectus sit eget justo eget.</p>
                     </div>
                     <div class="row">
-                        <div
-                            class="col-lg-12 mt-5 mb-5 text-left wow animate__animated animate__fadeInDown animate__delay-2s">
+                        <div class="col-lg-12 mt-5 mb-5 text-left wow animate__animated animate__fadeInDown animate__delay-2s">
                             <div class="our-service-btn1">
                                 <a class="btn service " href="">book appointment</a>
                                 <a class="btn service1 " href="">BROWSE SERVICES</a>
@@ -37,13 +36,13 @@
 </section>
 <section class="who-are-you">
     <div class="blade-knife">
-        <img src="img/blade1.png" class="img-fluid" alt="">
+        <img src="img/blade1.webp" class="img-fluid" alt="">
     </div>
     <div class="container">
         <div class="row">
             <div class="col-lg-5">
                 <div class="image-who-are-you img-step con wow animate__animated animate__fadeInLeft ">
-                    <img src="img/about-image.png" class="img-fluid" alt="">
+                    <img src="img/about-image.webp" class="img-fluid" alt="">
                     <div class="overlay con_1">
                     </div>
                 </div>
@@ -52,7 +51,7 @@
             <div class="col-lg-6">
                 <div class="main-about-heading">
                     <div class="image-who-are-you1 img-step con wow animate__animated animate__fadeInRight">
-                        <img src="img/about-img.png" class="img-fluid" alt="">
+                        <img src="img/about-img.webp" class="img-fluid" alt="">
                         <div class="overlay con_1">
                         </div>
                     </div>
@@ -75,8 +74,7 @@
                         </p>
                     </div>
                     <div class="row">
-                        <div
-                            class="col-lg-12 mt-2 mb-2 text-left wow animate__animated animate__fadeInDown animate__delay-1s">
+                        <div class="col-lg-12 mt-2 mb-2 text-left wow animate__animated animate__fadeInDown animate__delay-1s">
                             <div class="our-service-btn1">
                                 <a class="btn service" href="">BOOK AN APPOINTMENT</a>
                             </div>
@@ -119,25 +117,22 @@
                         barbers will exceed your expectations.
                     </p>
                     <div class="row">
-                        <div
-                            class="col-lg-12 mt-2 mb-4 text-left wow animate__animated animate__fadeInDown animate__delay-0.9s">
+                        <div class="col-lg-12 mt-2 mb-4 text-left wow animate__animated animate__fadeInDown animate__delay-0.9s">
                             <div class="our-service-btn1 second-about-us">
                                 <a class="btn service" href="">BOOK AN APPOINTMENT</a>
                             </div>
                         </div>
                     </div>
-                    <div
-                        class="image-who-are-you-second1 img-step con second-about-img wow animate__animated animate__fadeInLeft animate__delay-0.3s">
-                        <img src="img/about-image2.png" class="img-fluid" alt="">
+                    <div class="image-who-are-you-second1 img-step con second-about-img wow animate__animated animate__fadeInLeft animate__delay-0.3s">
+                        <img src="img/about-image2.webp" class="img-fluid" alt="">
                         <div class="overlay con_1">
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-5">
-                <div
-                    class="image-who-are-you1 img-step con wow animate__animated animate__fadeInRight animate__delay-0.3s">
-                    <img src="img/about-image1.png" class="img-fluid" alt="">
+                <div class="image-who-are-you1 img-step con wow animate__animated animate__fadeInRight animate__delay-0.3s">
+                    <img src="img/about-image1.webp" class="img-fluid" alt="">
                     <div class="overlay con_1">
                     </div>
                 </div>
@@ -148,10 +143,10 @@
 </section>
 <section class="about-us-slider">
     <div class="background-footer8-about-us">
-        <img src="img/background1.png" class="img-fluid" alt="">
+        <img src="img/background1.webp" class="img-fluid" alt="">
     </div>
     <div class="background-footer-about">
-        <img src="img/background6.png" class="img-fluid" alt="">
+        <img src="img/background6.webp" class="img-fluid" alt="">
     </div>
     <div class="container">
         <div class="row">
@@ -177,7 +172,7 @@
                     <div class="about-main-slider-wrapper">
                         <div class="slider-img-about burnsTest">
                             <figure>
-                                <img src="img/slider-about.png" class="img-fluid " alt="">
+                                <img src="img/slider-about.webp" class="img-fluid " alt="">
                             </figure>
                             <div class="content-img">
                                 <div class="shaney">
@@ -191,7 +186,7 @@
                         </div>
                         <div class="slider-img-about1 burnsTest">
                             <figure>
-                                <img src="img/sliderabout1.png" class="img-fluid" alt="">
+                                <img src="img/sliderabout1.webp" class="img-fluid" alt="">
                             </figure>
                             <div class="content-img">
                                 <div class="shaney">
@@ -205,7 +200,7 @@
                         </div>
                         <div class="slider-img-about2 burnsTest">
                             <figure>
-                                <img src="img/sliderabout2.png" class="img-fluid" alt="">
+                                <img src="img/sliderabout2.webp" class="img-fluid" alt="">
                             </figure>
                             <div class="content-img">
                                 <div class="shaney">
@@ -219,7 +214,7 @@
                         </div>
                         <div class="slider-img-about burnsTest">
                             <figure>
-                                <img src="img/slider-about.png" class="img-fluid " alt="">
+                                <img src="img/slider-about.webp" class="img-fluid " alt="">
                             </figure>
                             <div class="content-img">
                                 <div class="shaney">
@@ -233,7 +228,7 @@
                         </div>
                         <div class="slider-img-about1 burnsTest">
                             <figure>
-                                <img src="img/sliderabout1.png" class="img-fluid" alt="">
+                                <img src="img/sliderabout1.webp" class="img-fluid" alt="">
                             </figure>
                             <div class="content-img">
                                 <div class="shaney">
@@ -247,7 +242,7 @@
                         </div>
                         <div class="slider-img-about2 burnsTest">
                             <figure>
-                                <img src="img/sliderabout2.png" class="img-fluid" alt="">
+                                <img src="img/sliderabout2.webp" class="img-fluid" alt="">
                             </figure>
                             <div class="content-img">
                                 <div class="shaney">
@@ -261,7 +256,7 @@
                         </div>
                         <div class="slider-img-about burnsTest">
                             <figure>
-                                <img src="img/slider-about.png" class="img-fluid " alt="">
+                                <img src="img/slider-about.webp" class="img-fluid " alt="">
                             </figure>
                             <div class="content-img">
                                 <div class="shaney">
@@ -275,7 +270,7 @@
                         </div>
                         <div class="slider-img-about1 burnsTest">
                             <figure>
-                                <img src="img/sliderabout1.png" class="img-fluid" alt="">
+                                <img src="img/sliderabout1.webp" class="img-fluid" alt="">
                             </figure>
                             <div class="content-img">
                                 <div class="shaney">
@@ -289,7 +284,7 @@
                         </div>
                         <div class="slider-img-about2 burnsTest">
                             <figure>
-                                <img src="img/sliderabout2.png" class="img-fluid" alt="">
+                                <img src="img/sliderabout2.webp" class="img-fluid" alt="">
                             </figure>
                             <div class="content-img">
                                 <div class="shaney">

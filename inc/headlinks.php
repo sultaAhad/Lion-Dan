@@ -7,7 +7,7 @@
 
 
 <!-- Favicon -->
-<link rel="icon" type="img/favicon.png" href="img/favicon.png">
+<link rel="icon" type="img/favicon.webp" href="img/favicon.webp">
 <!-- Favicon -->
 
 <!-- Bootstrap CSS -->

@@ -9,13 +9,13 @@
 <!-- style css -->
 <section class="main-wrapper">
     <div class="banner-background">
-        <img src="img/background11.png" class="img-fluid" alt="">
+        <img src="img/background11.webp" class="img-fluid" alt="">
     </div>
     <div class="container">
         <div class="row">
             <div class="col-lg-6">
                 <div class="join-imag img-step con">
-                    <img src="img/team-profile.png" class="img-fluid" alt="">
+                    <img src="img/team-profile.webp" class="img-fluid" alt="">
                     <div class="overlay con_1">
                     </div>
                 </div>
@@ -23,7 +23,7 @@
             <div class="col-lg-5">
                 <div class="img-our-team-profile">
                     <div class="img-lines">
-                        <img src="img/footer-logo.png" class="img-fluid" alt="">
+                        <img src="img/footer-logo.webp" class="img-fluid" alt="">
                     </div>
                     <h4>JUAN GONZALES
                     </h4>
@@ -38,10 +38,10 @@
 </section>
 <section class="about-content">
     <div class="profile-background">
-        <img src="img/blede2.png" class="img-fluid" alt="">
+        <img src="img/blede2.webp" class="img-fluid" alt="">
     </div>
     <div class="profile-background1">
-        <img src="img/background7.png" class="img-fluid" alt="">
+        <img src="img/background7.webp" class="img-fluid" alt="">
     </div>
     <div class="container">
         <div class="row">

@@ -1,17 +1,17 @@
 <!-- Footer Start Here -->
 <footer>
     <div class="background-footer1">
-        <img src="img/background10.png" class="img-fluid" alt="">
+        <img src="img/background10.webp" class="img-fluid" alt="">
     </div>
     <div class="background-footer2">
-        <img src="img/background9.png" class="img-fluid" alt="">
+        <img src="img/background9.webp" class="img-fluid" alt="">
     </div>
     <div class="container">
         <div class="row">
             <div class="col-lg-4 text-center mx-auto">
                 <div class="img-footer-input img-our-service">
                     <div class="img-lines">
-                        <img src="img/footer-logo.png" class="img-fluid " alt="">
+                        <img src="img/footer-logo.webp" class="img-fluid " alt="">
                     </div>
                     <h3>join the den club</h3>
                     <p>and received 10% off of your first order with us</p>
@@ -32,7 +32,7 @@
         <div class="row footer-border justify-content-between align-items-center">
             <div class="col-md-4 ">
                 <div class="web-logo footer-logo">
-                    <img src="img/footer-logo-wrapper.png" alt="" class="img-fluid">
+                    <img src="img/footer-logo-wrapper.webp" alt="" class="img-fluid">
                 </div>
                 <div class="footer-info">
                     <p>At Lions Den Barber Shop, our traditional barber chairs, hot lather shaves, and head and neck
@@ -100,7 +100,7 @@
         </div>
     </div>
     <div class="background-footer">
-        <img src="img/background11.png" class="img-fluid" alt="">
+        <img src="img/background11.webp" class="img-fluid" alt="">
     </div>
 </footer>
 <!-- Footer End Here -->
